@@ -92,21 +92,6 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    <script src="https://giscus.app/client.js"
-        data-repo="siifat/siifat.github.io"
-        data-repo-id="R_kgDOKRKr6w"
-        data-category="General"
-        data-category-id="DIC_kwDOKRKr684CZNQY"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="preferred_color_scheme"
-        data-lang="en"
-        crossorigin="anonymous"
-        async>
-</script>
     repo: siifat/siifat.github.io # <gh-username>/<repo>
     repo_id: R_kgDOKRKr6w
     category: General
