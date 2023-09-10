@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# About me
+
 I'm currently a student of UIU studying in CSE department. I passed my Secondary School Certificate & Higher Secondary School Certificate from Mirpur Cantonment Public School & College.
 
 
