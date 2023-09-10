@@ -5,10 +5,11 @@ order: 4
 ---
 
 # About me
-UIU
+I'm currently a student of UIU studying in CSE department. I passed my Secondary School Certificate & Higher Secondary School Certificate from Mirpur Cantonment Public School & College.
 
-# Features
-- Dark / Light Theme Mode
+
+## Features of my website
+- Has Dark / Light Theme Mode
 - Localized UI language
 - Pinned Posts on Home Page
 - Hierarchical Categories
@@ -24,5 +25,8 @@ UIU
 - Built-in Search
 - Atom Feeds
 - PWA
-- Google Analytics
+- Google Analytics support
 - SEO & Performance Optimization
+- (More to come!)
+
+## Thank You for visitng my website!
