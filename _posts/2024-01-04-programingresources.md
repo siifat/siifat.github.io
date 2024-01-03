@@ -31,9 +31,6 @@ image:
 * [জাভা প্রোগ্রামিং](http://java.howtocode.dev/)- [How-to-code](http://www.howtocode.dev/)
 * [বাংলা জাভা টিউটোরিয়াল](http://mrubel.com/androidlime/category/java/) - [মোশাররফ রুবেল](https://www.facebook.com/rubel007cse)
 
-### সি শার্প (C#)
-* [আসুন C# শিখি](https://intisarbnaim.com/bn/categories/%E0%A6%86%E0%A6%B8%E0%A7%81%E0%A6%A8-c-sharp-%E0%A6%B6%E0%A6%BF%E0%A6%96%E0%A6%BF/) - [ইনতিসার বিন নাইম](https://intisarbnaim.com/bn/)
-
 ### জাভাস্ক্রিপ্ট (Javascript)
 * [জাভাস্ক্রিপ্ট](http://js.howtocode.dev/) - [How-to-code](http://www.howtocode.dev/)
 * [বাংলায় জাভাস্ক্রিপ্ট](http://masnun.com/tutorials) - [আবু আশরাফ মাসনুন](https://www.facebook.com/abu.ashraf.masnun)
@@ -43,6 +40,13 @@ image:
 ### পিএইচপি (PHP)
 * [বাংলায় পিএইচপি](https://php.howtocode.dev/) - [How-to-code](https://www.howtocode.dev/)
 
+### পাইথন (Python)
+* [বাংলায় পাইথন](http://python.howtocode.dev/) - [How-to-code](http://www.howtocode.dev/)
+* [হাতে-কলমে পাইথন](http://www.adhikary.net/post/learn-python-by-building-0/) - [অনিরুদ্ধ অধিকারী](https://www.linkedin.com/in/tuxboy/)
+* [বাংলায় পাইথন](http://masnun.com/tutorials) - [আবু আশরাফ মাসনুন](https://www.facebook.com/abu.ashraf.masnun)
+* [বাংলায় পাইথন প্রোগ্রামিং ল্যাঙ্গুয়েজ বই এবং টিউটোরিয়াল](http://jakir.me/python) - [জাকির হোসাইন](https://www.facebook.com/jakir007)
+* [পাইথন বাংলা টিউটোরিয়াল](https://pythonbangla.com) - [Mahmud Ahsan](https://twitter.com/mahmudahsan)
+
 ### রিকার্শন, ব্যাকট্র্যাকিং
 * [রিকার্শন (RECURSION)](http://binaryrongo.anindyaspaul.com/2015/12/25/recursion/) - [অনিন্দ্য পাল](http://anindyaspaul.com/)
 * [ব্যকট্র্যাকিং বেসিক এবং পারমুটেশন জেনারেটর](http://www.shafaetsplanet.com/planetcoding/?p=1266) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
@@ -50,16 +54,6 @@ image:
 * [Backtrack & N Queen](http://shakilcompetitiveprogramming.blogspot.nl/2015/05/backtrack-n-queen.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
 * [ইনক্লুশন এক্সক্লুশন – রিকার্শন](http://shoshikkha.com/archives/2143) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
 * [রিকার্সিভ ফাংশনের সৌন্দর্য](https://hellohasan.com/tag/recursion/) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
-
-### স্ট্রিং এলগোরিদম
-* [KMP (Knuth-Morris-Pratt algorithm)](https://tanvir002700.wordpress.com/2015/03/03/kmp-knuth-morris-pratt-algorithm/) - [তানভীর হাসান অনিক](https://www.facebook.com/anick.silentkiller)
-* [স্ট্রিং হ্যাশিং, রোলিং হ্যাশ এবং রবিন-কার্প এলগোরিদম (Rabin-Karp algorithm)](http://ami-alavola.rhcloud.com/?p=231) - [আলাভোলা](https://medium.com/@amialavola)
-* [Aho-Corasick দিয়ে String Matching](http://www.abuasifkhan.me/aho-corasick.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
-* [Z Algorithm](http://shakilcompetitiveprogramming.blogspot.nl/2015/06/z-algorithm.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
-* [আহো-কোরাসিক(Aho-Corasick) অ্যালগোরিদম](https://returnzerooo.wordpress.com/2017/09/28/%E0%A6%86%E0%A6%B9%E0%A7%8B-%E0%A6%95%E0%A7%8B%E0%A6%B0%E0%A6%BE%E0%A6%B8%E0%A6%BF%E0%A6%95/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
-* [KMP অ্যালগোরিদম](https://returnzerooo.wordpress.com/2016/09/08/kmp/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
-* [রবিন-কার্প স্ট্রিং ম্যাচিং](http://www.shafaetsplanet.com/?p=3028) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-* [নুথ-মরিসন-প্র্যাট (কেএমপি) অ্যালগরিদমিং](http://www.shafaetsplanet.com/?p=3209) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 
 ## এলগোরিদম
 
@@ -72,6 +66,16 @@ image:
 * [ফ্লোচার্ট (Flowchart) নিয়ে আলোচনা](https://baburjhuli.blogspot.com/2021/08/flowchart.html) - [শাকিল বাবু](https://www.facebook.com/profile.php?id=100025305922873)
 * [অ্যালগরিদমে টাইম কমপ্লিক্সিটি(complexity) - পর্ব (০১)](https://baburjhuli.blogspot.com/2021/07/time-complexity-in-algorithm-part-01.html) - [শাকিল বাবু](https://www.facebook.com/profile.php?id=100025305922873)
 *  [অ্যালগরিদমে টাইম কমপ্লিক্সিটি(complexity) - পর্ব (০২)](https://baburjhuli.blogspot.com/2021/08/time-complexity-in-algorithm-part-02.html) - [শাকিল বাবু](https://www.facebook.com/profile.php?id=100025305922873)
+
+### স্ট্রিং এলগোরিদম
+* [KMP (Knuth-Morris-Pratt algorithm)](https://tanvir002700.wordpress.com/2015/03/03/kmp-knuth-morris-pratt-algorithm/) - [তানভীর হাসান অনিক](https://www.facebook.com/anick.silentkiller)
+* [স্ট্রিং হ্যাশিং, রোলিং হ্যাশ এবং রবিন-কার্প এলগোরিদম (Rabin-Karp algorithm)](http://ami-alavola.rhcloud.com/?p=231) - [আলাভোলা](https://medium.com/@amialavola)
+* [Aho-Corasick দিয়ে String Matching](http://www.abuasifkhan.me/aho-corasick.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
+* [Z Algorithm](http://shakilcompetitiveprogramming.blogspot.nl/2015/06/z-algorithm.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
+* [আহো-কোরাসিক(Aho-Corasick) অ্যালগোরিদম](https://returnzerooo.wordpress.com/2017/09/28/%E0%A6%86%E0%A6%B9%E0%A7%8B-%E0%A6%95%E0%A7%8B%E0%A6%B0%E0%A6%BE%E0%A6%B8%E0%A6%BF%E0%A6%95/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
+* [KMP অ্যালগোরিদম](https://returnzerooo.wordpress.com/2016/09/08/kmp/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
+* [রবিন-কার্প স্ট্রিং ম্যাচিং](http://www.shafaetsplanet.com/?p=3028) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+* [নুথ-মরিসন-প্র্যাট (কেএমপি) অ্যালগরিদমিং](http://www.shafaetsplanet.com/?p=3209) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 
 ### ডাটা স্ট্রাকচার
 
@@ -279,13 +283,6 @@ image:
 
 ### ফান্ডামেন্টাল
 * [বাংলায় সফটওয়্যার ইঞ্জিনিয়ারিং ফান্ডামেন্টাল](https://www.youtube.com/playlist?list=PLkyGuIcLcmx0NDDhUydksZTsCWE_4daBJ) - [রাব্বিল হাসান](https://www.youtube.com/@RabbilHasanRupom)
-
-### পাইথন (Python)
-* [বাংলায় পাইথন](http://python.howtocode.dev/) - [How-to-code](http://www.howtocode.dev/)
-* [হাতে-কলমে পাইথন](http://www.adhikary.net/post/learn-python-by-building-0/) - [অনিরুদ্ধ অধিকারী](https://www.linkedin.com/in/tuxboy/)
-* [বাংলায় পাইথন](http://masnun.com/tutorials) - [আবু আশরাফ মাসনুন](https://www.facebook.com/abu.ashraf.masnun)
-* [বাংলায় পাইথন প্রোগ্রামিং ল্যাঙ্গুয়েজ বই এবং টিউটোরিয়াল](http://jakir.me/python) - [জাকির হোসাইন](https://www.facebook.com/jakir007)
-* [পাইথন বাংলা টিউটোরিয়াল](https://pythonbangla.com) - [Mahmud Ahsan](https://twitter.com/mahmudahsan)
 
 ---
 
