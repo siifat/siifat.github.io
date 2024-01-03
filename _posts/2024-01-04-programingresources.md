@@ -274,40 +274,9 @@ image:
 - [গিটহাবে ওপেনসোর্স প্রজেক্টে কন্ট্রিবিউশনের সহজ ওয়ার্কফ্লো](https://medium.com/@me_shaon/%E0%A6%97%E0%A6%BF%E0%A6%9F%E0%A6%B9%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%93%E0%A6%AA%E0%A7%87%E0%A6%A8%E0%A6%B8%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%B8-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%9C%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%9F%E0%A7%87-%E0%A6%95%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A6%BF%E0%A6%89%E0%A6%B6%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%B9%E0%A6%9C-%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%AB%E0%A7%8D%E0%A6%B2%E0%A7%8B-1a2d8b107391) - [আহমেদ শামীম হাসান](https://www.facebook.com/ahmed.shamim.hassan)
 
 ---
-## অন্যান্য
-
-### স্কেলিং এন্ড পারফর্মেন্স অপটিমাইজেশন
-* [ওয়েব সার্ভার স্কেলিং](http://apikothon.com/category/%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%82-%E0%A6%93%E0%A7%9F%E0%A7%87%E0%A6%AC-%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AD%E0%A6%BE%E0%A6%B0) - [ইকরাম হোসাইন](https://www.facebook.com/ikrum)
-* [ভার্টিক্যাল ও হরাইজনটাল স্কেলিং](http://subeen.com/%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2-%E0%A6%93-%E0%A6%B9%E0%A6%B0%E0%A6%BE%E0%A6%87%E0%A6%9C%E0%A6%A8%E0%A6%9F%E0%A6%BE%E0%A6%B2/) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
-
-### অন্যান্য
-* [সফটওয়্যার ডেভেলপমেন্টের ক্লাসিক ভুলগুলো](http://software-engineering-notes-in-bangla.blogspot.com/2015/12/blog-post.html) -  [ইশতিয়াক হোসাইন](https://www.facebook.com/ishtiaque.hussain.7)
-* [প্রোগ্রামিংয়ের সাধারণ ভুলগুলো](http://ami-alavola.rhcloud.com/?p=142) - [আলাভোলা](https://medium.com/@amialavola)
-* [সিঙ্গেল সাইন অন বা এস-এস-ও (Single Sign On - SSO)](http://software-engineering-notes-in-bangla.blogspot.com/2015/10/single-sign-on-sso.html) - [ইশতিয়াক হোসাইন](https://www.facebook.com/ishtiaque.hussain.7)
-* [মেথড ওভারলোডিং- ওভাররাইডিং - Method overloading - overriding](http://software-engineering-notes-in-bangla.blogspot.com/2014/12/method-overloading-overriding.html) - [ইশতিয়াক হোসাইন](https://www.facebook.com/ishtiaque.hussain.7)
-* [কোয়ান্টাম কম্পিউটার কী?](http://www.shafaetsplanet.com/planetcoding/?p=2130) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-* [কোয়ান্টাম কম্পিউটারের শক্তি এবং সীমাবদ্ধতা](http://www.shafaetsplanet.com/planetcoding/?p=2135) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-* বিগ ইন্টিজার [১](http://subeen.com/%E0%A6%AC%E0%A6%BF%E0%A6%97-%E0%A6%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A7%A7/), [২](http://subeen.com/%E0%A6%AC%E0%A6%BF%E0%A6%97-%E0%A6%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A7%A8/), [৩](http://subeen.com/%E0%A6%AC%E0%A6%BF%E0%A6%97-%E0%A6%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A7%A9/), [৪](http://subeen.com/%E0%A6%AC%E0%A6%BF%E0%A6%97-%E0%A6%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A7%AA/) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
-* [ন্যাচারাল ল্যাঙ্গুয়েজ প্রসেসিং](http://subeen.com/%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%B2-%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%81%E0%A7%9F%E0%A7%87%E0%A6%9C-%E0%A6%AA%E0%A7%8D/) - [তামান্না নিশাত রিনি](https://www.facebook.com/nishat.rini)
-* [ট্যুরিং টেস্ট – মানুষ বনাম কম্পিউটার](http://subeen.com/%E0%A6%9F%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A6%B0%E0%A6%BF%E0%A6%82-%E0%A6%9F%E0%A7%87%E0%A6%B8%E0%A7%8D%E0%A6%9F-%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%81%E0%A6%B7-%E0%A6%95%E0%A6%AE%E0%A7%8D%E0%A6%AA/) - [তামান্না নিশাত রিনি](https://www.facebook.com/nishat.rini)
-* [বাইটকোড ইন্সট্রুমেন্টেশন (Bytecode instrumentation) এবং এর ব্যবহার](http://software-engineering-notes-in-bangla.blogspot.com/2016/11/bytecode-instrumentation.html) - [ইশতিয়াক হোসাইন](https://www.facebook.com/ishtiaque.hussain.7)
-* [জাভা প্রোগ্রামিং ল্যাংগুয়েজ তৈরির পেছনের গল্প](http://www.bazlur.com/2017/01/blog-post_25.html) - [বজলুর রহমান রোকন](https://www.facebook.com/rokonoid)
-* [প্রোগ্রামিং প্যারাডাইম](http://www.bazlur.com/2017/01/blog-post.html) - [বজলুর রহমান রোকন](https://www.facebook.com/rokonoid)
-* [Agile and Scrum](https://bazlur.com/posts/2017-01-08-agile-and-scru/) - [বজলুর রহমান রোকন](https://www.facebook.com/rokonoid)
-* [Act with Prudence](http://www.bazlur.com/2017/01/act-with-prudence.html) - [বজলুর রহমান রোকন](https://www.facebook.com/rokonoid)
-* [মিউটেবল (mutable) এবং ইমিউটেবল (immutable)](https://medium.com/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%82-%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE/%E0%A6%AE%E0%A6%BF%E0%A6%89%E0%A6%9F%E0%A7%87%E0%A6%AC%E0%A6%B2-mutable-%E0%A6%8F%E0%A6%AC%E0%A6%82-%E0%A6%87%E0%A6%AE%E0%A6%BF%E0%A6%89%E0%A6%9F%E0%A7%87%E0%A6%AC%E0%A6%B2-immutable-b1f4d9c9090f) - [আলাভোলা](https://medium.com/@amialavola)
-* [টাইপ সিস্টেম (Type System)](https://medium.com/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%82-%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE/%E0%A6%9F%E0%A6%BE%E0%A6%87%E0%A6%AA-%E0%A6%B8%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%87%E0%A6%AE-type-system-bd2db56c3a52) - [আলাভোলা](https://medium.com/@amialavola)
-* [রেগুলার এক্সপ্রেশন -এ শুরু](http://samirdas.com/regular-expression-start/) - [সামির দাস](https://www.facebook.com/cse.samir)
-* [রেগুলার এক্সপ্রেশন -এ শেষ](http://samirdas.com/regular-expression-end/) - [সামির দাস](https://www.facebook.com/cse.samir)
-* [এক পলকে রেগুলার এক্সপ্রেশন](https://with.zonayed.me/bn/tag/regex/) - [Learn With Zonayed](https://with.zonayed.me/bn)
-* [এক পলকে মার্কডাউন মার্কাপ ল্যাংগুয়েজ](https://with.zonayed.me/bn/%e0%a6%9f%e0%a6%bf%e0%a6%aa%e0%a7%8d%e0%a6%b8-%e0%a6%8f%e0%a6%a8%e0%a7%8d%e0%a6%a1-%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%bf%e0%a6%95%e0%a7%8d%e0%a6%b8/%e0%a6%8f%e0%a6%95-%e0%a6%aa%e0%a6%b2%e0%a6%95%e0%a7%87-%e0%a6%ae%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%95%e0%a6%a1%e0%a6%be%e0%a6%89%e0%a6%a8-%e0%a6%ae%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%95%e0%a6%be/) - [Learn With Zonayed](https://with.zonayed.me/bn)
-* [এক পলকে সিকিউর শেল Secure Shell (SSH)](https://with.zonayed.me/bn/tag/ssh/) - [Learn With Zonayed](https://with.zonayed.me/bn)
-* [ব্লকচেইন? সে আবার কি? আল্টিমেট অখাটি বাংলায় ব্লকচেইন ১০১](https://with.dibakar.me/2018/08/03/%E0%A6%AC%E0%A7%8D%E0%A6%B2%E0%A6%95%E0%A6%9A%E0%A7%87%E0%A6%87%E0%A6%A8-%E0%A6%B8%E0%A7%87-%E0%A6%86%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%BF-%E0%A6%86%E0%A6%B2%E0%A7%8D%E0%A6%9F%E0%A6%BF/) - [দিবাকর সূত্রধর](https://www.facebook.com/dipu.dibakar)
-* [আনরিয়েল ইঞ্জিন ৪](https://with.dibakar.me/category/game-development/unreal-engine/) - [দিবাকর সূত্রধর](https://www.facebook.com/dipu.dibakar)
-
----
 
 ## প্রোগ্রামিং ল্যাঙ্গুয়েজ টিউটোরিয়াল সিরিজ
+
 ### ফান্ডামেন্টাল
 * [বাংলায় সফটওয়্যার ইঞ্জিনিয়ারিং ফান্ডামেন্টাল](https://www.youtube.com/playlist?list=PLkyGuIcLcmx0NDDhUydksZTsCWE_4daBJ) - [রাব্বিল হাসান](https://www.youtube.com/@RabbilHasanRupom)
 
