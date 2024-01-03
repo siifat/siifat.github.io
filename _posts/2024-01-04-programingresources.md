@@ -1,7 +1,7 @@
 ---
 title: বাংলা প্রোগ্রামিং রিসোরসেস [Updated 03 January 2024]
 date: 2024-01-03 12:40:00 +0600
-categories: [help]
+categories: [programing]
 tags: [programing]    # TAG names should always be lowercase
 
 ---
@@ -13,6 +13,34 @@ tags: [programing]    # TAG names should always be lowercase
 > বাংলায় সহজবোধ্য প্রোগ্রামিং টিউটরিয়াল, রেফারেন্স এবং অন্যান্য প্রয়োজনীয় লিংকের তালিকা
 
 ---
+
+### সি (C)
+* [বাংলায় সি প্রোগ্রামিং শিক্ষা](http://c.howtocode.dev/) - [How-to-code](http://www.howtocode.dev/)
+* [বাংলায় সি প্রোগ্রামিং ল্যাঙ্গুয়েজ বই এবং টিউটোরিয়াল](http://jakir.me/c) - [জাকির হোসাইন](https://www.facebook.com/jakir007)
+* [সি টিউটোরিয়াল](http://shoshikkha.com/archives/1394) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
+* [বাংলা সি প্রোগ্রামিং ভিডিও টিউটোরিয়াল](http://www.techsharif.com/ctutorial/) - [শরীফ চৌধুরী](https://www.facebook.com/Sharif.Chowdhury.cse)
+
+### সি প্লাস প্লাস (C++)
+* [বাংলা সি প্লাস প্লাস প্রোগ্রামিং ভিডিও টিউটোরিয়াল](http://www.techsharif.com/cpptutorial/) - [শরীফ চৌধুরী](https://www.facebook.com/Sharif.Chowdhury.cse)
+* [সি প্লাস প্লাস টিউটোরিয়াল](http://shoshikkha.com/archives/category/computer-science/programming/language/c) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
+
+### জাভা (Java)
+* [জাভা প্রোগ্রামিং](http://java.howtocode.dev/)- [How-to-code](http://www.howtocode.dev/)
+* [বাংলা জাভা টিউটোরিয়াল](http://mrubel.com/androidlime/category/java/) - [মোশাররফ রুবেল](https://www.facebook.com/rubel007cse)
+
+### সি শার্প (C#)
+* [আসুন C# শিখি](https://intisarbnaim.com/bn/categories/%E0%A6%86%E0%A6%B8%E0%A7%81%E0%A6%A8-c-sharp-%E0%A6%B6%E0%A6%BF%E0%A6%96%E0%A6%BF/) - [ইনতিসার বিন নাইম](https://intisarbnaim.com/bn/)
+
+### জাভাস্ক্রিপ্ট (Javascript)
+* [জাভাস্ক্রিপ্ট](http://js.howtocode.dev/) - [How-to-code](http://www.howtocode.dev/)
+* [বাংলায় জাভাস্ক্রিপ্ট](http://masnun.com/tutorials) - [আবু আশরাফ মাসনুন](https://www.facebook.com/abu.ashraf.masnun)
+* [নতুন করে শিখি জাভাস্ক্রিপ্ট](https://developer.mozilla.org/bn-BD/docs/Web/JavaScript/A_re-introduction_to_JavaScript) - [Mozilla Developer Network Blog](https://developer.mozilla.org/bn-BD/)
+* [হাতেকলমে জাভাস্ক্রিপ্ট](https://js.zonayed.me) - [Learn With Zonayed](https://with.zonayed.me/bn)
+
+
+### পিএইচপি (PHP)
+* [বাংলায় পিএইচপি](https://php.howtocode.dev/) - [How-to-code](https://www.howtocode.dev/)
+
 
 ## এলগোরিদম
 
@@ -642,34 +670,6 @@ tags: [programing]    # TAG names should always be lowercase
 * [বাংলায় পাইথন](http://masnun.com/tutorials) - [আবু আশরাফ মাসনুন](https://www.facebook.com/abu.ashraf.masnun)
 * [বাংলায় পাইথন প্রোগ্রামিং ল্যাঙ্গুয়েজ বই এবং টিউটোরিয়াল](http://jakir.me/python) - [জাকির হোসাইন](https://www.facebook.com/jakir007)
 * [পাইথন বাংলা টিউটোরিয়াল](https://pythonbangla.com) - [Mahmud Ahsan](https://twitter.com/mahmudahsan)
-
-
-### জাভা (Java)
-* [জাভা প্রোগ্রামিং](http://java.howtocode.dev/)- [How-to-code](http://www.howtocode.dev/)
-* [বাংলা জাভা টিউটোরিয়াল](http://mrubel.com/androidlime/category/java/) - [মোশাররফ রুবেল](https://www.facebook.com/rubel007cse)
-
-### সি (C)
-* [বাংলায় সি প্রোগ্রামিং শিক্ষা](http://c.howtocode.dev/) - [How-to-code](http://www.howtocode.dev/)
-* [বাংলায় সি প্রোগ্রামিং ল্যাঙ্গুয়েজ বই এবং টিউটোরিয়াল](http://jakir.me/c) - [জাকির হোসাইন](https://www.facebook.com/jakir007)
-* [সি টিউটোরিয়াল](http://shoshikkha.com/archives/1394) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
-* [বাংলা সি প্রোগ্রামিং ভিডিও টিউটোরিয়াল](http://www.techsharif.com/ctutorial/) - [শরীফ চৌধুরী](https://www.facebook.com/Sharif.Chowdhury.cse)
-
-### সি প্লাস প্লাস (C++)
-* [বাংলা সি প্লাস প্লাস প্রোগ্রামিং ভিডিও টিউটোরিয়াল](http://www.techsharif.com/cpptutorial/) - [শরীফ চৌধুরী](https://www.facebook.com/Sharif.Chowdhury.cse)
-* [সি প্লাস প্লাস টিউটোরিয়াল](http://shoshikkha.com/archives/category/computer-science/programming/language/c) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
-
-### সি শার্প (C#)
-* [আসুন C# শিখি](https://intisarbnaim.com/bn/categories/%E0%A6%86%E0%A6%B8%E0%A7%81%E0%A6%A8-c-sharp-%E0%A6%B6%E0%A6%BF%E0%A6%96%E0%A6%BF/) - [ইনতিসার বিন নাইম](https://intisarbnaim.com/bn/)
-
-### জাভাস্ক্রিপ্ট (Javascript)
-* [জাভাস্ক্রিপ্ট](http://js.howtocode.dev/) - [How-to-code](http://www.howtocode.dev/)
-* [বাংলায় জাভাস্ক্রিপ্ট](http://masnun.com/tutorials) - [আবু আশরাফ মাসনুন](https://www.facebook.com/abu.ashraf.masnun)
-* [নতুন করে শিখি জাভাস্ক্রিপ্ট](https://developer.mozilla.org/bn-BD/docs/Web/JavaScript/A_re-introduction_to_JavaScript) - [Mozilla Developer Network Blog](https://developer.mozilla.org/bn-BD/)
-* [হাতেকলমে জাভাস্ক্রিপ্ট](https://js.zonayed.me) - [Learn With Zonayed](https://with.zonayed.me/bn)
-
-
-### পিএইচপি (PHP)
-* [বাংলায় পিএইচপি](https://php.howtocode.dev/) - [How-to-code](https://www.howtocode.dev/)
 
 ### ডার্ট
 * [বাংলায় ডার্ট ও ফ্লাটার বেসিক ](https://www.youtube.com/playlist?list=PLkyGuIcLcmx1mIPyMdVodlSVJqL7Y9Wv7) - [রাব্বিল হাসান](https://www.youtube.com/@RabbilHasanRupom)
