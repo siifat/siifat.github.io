@@ -3,7 +3,8 @@ title: বাংলা প্রোগ্রামিং রিসোরসে�
 date: 2024-01-03 12:40:00 +0600
 categories: [programing]
 tags: [programing]    # TAG names should always be lowercase
-
+image:
+  path: /assets/img/sample/hecker.gif
 ---
 
 ---
