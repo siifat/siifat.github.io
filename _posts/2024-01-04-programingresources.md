@@ -134,14 +134,6 @@ image:
 * বাইনারি ইনডেক্সড ট্রি (Binary Indexed Tree)
     * [বাইনারি ইনডেক্সড ট্রি](http://www.shafaetsplanet.com/planetcoding/?p=1961) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 
-* সাফিক্স এ্যারে(Suffix Array)
-    * [সাফিক্স এ্যারে(Suffix Array)](https://tanvir002700.wordpress.com/2015/01/13/suffix-array/) - [তানভীর হাসান অনিক](https://www.facebook.com/anick.silentkiller)
-
-* স্পার্স টেবিল (Sparse Table)
-    * [স্পার্স টেবিল (Sparse Table)](https://tanvir002700.wordpress.com/2015/05/27/sparse-table/) - [তানভীর হাসান অনিক](https://www.facebook.com/anick.silentkiller)
-
-* [পলিসি বেইজড ডাটা স্ট্রাকচার (PBDS)](https://returnzerooo.wordpress.com/2017/12/24/%E0%A6%AA%E0%A6%B2%E0%A6%BF%E0%A6%B8%E0%A6%BF-%E0%A6%AC%E0%A7%87%E0%A6%87%E0%A6%9C%E0%A6%A1-%E0%A6%A1%E0%A6%BE%E0%A6%9F%E0%A6%BE-%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%95/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
-
 ### ম্যাথ ও নাম্বার থিওরী
 
 * প্রাইম নাম্বার (Prime Number)
@@ -178,67 +170,8 @@ image:
     - [কয়েন চেঞ্জ, রক ক্লাইম্বিং](http://www.shafaetsplanet.com/planetcoding/?p=1158) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
     * [কয়েন চেঞ্জ – সেট ১ ](https://www.shawonruet.com/2017/09/blog-post.html) - [আসাদুল্লাহ শাওন](https://web.facebook.com/ashadullah.shawon)
 
-* লংগেস্ট কমন সাবসিকোয়েন্স (LCS)
-    - [লংগেস্ট কমন সাবসিকোয়েন্স(LCS)](http://www.shafaetsplanet.com/planetcoding/?p=1862) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-
-* লংগেস্ট ইনক্রিসিং সাবসিকোয়েন্স (LIS)
-    - [ডিপি সলিউশন প্রিন্ট করা এবং LIS](http://www.shafaetsplanet.com/planetcoding/?p=1211) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-    - [LIS and variation](http://shakilcompetitiveprogramming.blogspot.nl/2016/04/lis-and-variation.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
-
-* ০/১ ন্যাপসাক (0/1 knapsack)
-    -  [ডিপি 'স্টেট', NcR, ০-১ ন্যাপস্যাক](http://www.shafaetsplanet.com/planetcoding/?p=1072) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-    - [০/১ ন্যাপসাক (0/1 knapsack)](https://sites.google.com/site/programinggconcept/0-1-knapsack)
-    * [০-১ ন্যাপস্যাকঃ টপ ডাউন](https://returnzerooo.wordpress.com/2016/02/01/%E0%A7%A6-%E0%A7%A7-%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AA%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%95-%E0%A6%AC%E0%A7%87%E0%A6%B8%E0%A6%BF%E0%A6%95/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
-    * [০-১ ন্যাপস্যাকঃ বটম আপ ও স্পেস অপটিমাইজেশন টেকনিক](https://returnzerooo.wordpress.com/2016/05/01/%E0%A7%A6-%E0%A7%A7-%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AA%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%95-%E0%A6%AC%E0%A6%9F%E0%A6%AE-%E0%A6%86%E0%A6%AA/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
-    * [0/1 knapsack step by step in Bangla](https://www.shawonruet.com/2018/12/01-knapsack.html) - [আসাদুল্লাহ শাওন](https://web.facebook.com/ashadullah.shawon)
-
-* [বিটমাস্ক ডিপি](http://www.shafaetsplanet.com/planetcoding/?p=1357) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-* [মিনিমাম ভারটেক্স কভার(গ্রাফ+ডিপি)](http://www.shafaetsplanet.com/planetcoding/?p=582) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-* [ম্যাট্রিক্স চেইন মাল্টিপ্লিকেশন](http://www.shafaetsplanet.com/planetcoding/?p=1885) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-* [Digit DP](http://shakilcompetitiveprogramming.blogspot.com/2015/09/digit-dp.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
-* [DP on Tree](http://shakilcompetitiveprogramming.blogspot.nl/2016/06/dp-on-tree.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
-* Dynamic Programming [1](http://shakilcompetitiveprogramming.blogspot.com/2015/06/light-oj-dp-part-1.html), [2](http://shakilcompetitiveprogramming.blogspot.com/2015/06/light-oj-dp-part-2.html), [3](http://shakilcompetitiveprogramming.blogspot.com/2015/08/dp-part-3.html), [4](http://shakilcompetitiveprogramming.blogspot.com/2016/03/dp-part-4.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
-* [DP trick - Knuth's optimization](http://shakilcompetitiveprogramming.blogspot.com/2015/08/dp-tricks-knuths-optimization.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
-* [Divide & Conquer Optimization – DP(ডিপি অপ্টিমাইজেশন)](https://returnzerooo.wordpress.com/2017/10/21/%E0%A6%A1%E0%A6%BF%E0%A6%AA%E0%A6%BF-%E0%A6%85%E0%A6%AA%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%87%E0%A6%9C%E0%A7%87%E0%A6%B6%E0%A6%A8/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
-* [কম্বিনেটরিক্স – গ্রিড ট্রাভেলিং এবং ডাইনামিক প্রোগ্রামিং](http://shoshikkha.com/archives/4182) - [সাদমান সাকিব](https://www.facebook.com/saadmaan.sakib)
-* [কম্বিনেটরিক্স – গ্রিড ট্রাভেলিং এবং ডাইনামিক প্রোগ্রামিং – ২](http://shoshikkha.com/archives/4240) - [সাদমান সাকিব](https://www.facebook.com/saadmaan.sakib)
-* [LightOj Dp – পর্ব ১](https://returnzerooo.wordpress.com/2017/11/12/lightoj-dp-%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AC-%E0%A7%A7/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
-* [Dynamic Programming Optimization - Convex Hull Trick](https://rezwanarefin01.github.io/posts/convex-hull-trick/) - [রেজওয়ান আরেফিন](https://www.facebook.com/RezwanArefin01)
-* [ডায়নামিক প্রোগ্রামিং এবং রিকার্শন দিয়ে NCR কম্বিনেশন](https://www.shawonruet.com/2018/12/ncr.html) - [আসাদুল্লাহ শাওন](https://web.facebook.com/ashadullah.shawon)
-
 
 ### সর্টিং
-
-* বাবল সর্ট (Bubble sort)
-    - [বাবল সর্ট](http://binaryrongo.anindyaspaul.com/2013/08/17/bubble-sort/) - [অনিন্দ্য পাল](http://anindyaspaul.com/)
-    - [বাবল সর্ট](http://hellohasan.com/2016/10/18/%E0%A6%AC%E0%A6%BE%E0%A6%AC%E0%A6%B2-%E0%A6%B8%E0%A6%B0%E0%A7%8D%E0%A6%9F-%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%A6%E0%A6%AE-bubble-sort-algorithm) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
-    - [বাবল সর্ট](https://shameem.me/bubble-sort-algorithm-bangla/) - [শামীম রেজা](https://www.facebook.com/TryShameem/)
-    - [বাবল সর্ট (ভিডিও)](https://youtu.be/ZUI0VQ9JvDw) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
-    - [বাবল সর্ট(Bubble sort) অ্যালগরিদম](https://baburjhuli.blogspot.com/2022/02/bubble-sort-algorithm.html) - [শাকিল বাবু](https://www.facebook.com/profile.php?id=100025305922873)
-
-* কাউন্টিং সর্ট (Counting sort)
-    - [কাউন্টিং সর্ট (COUNTING SORT)](http://binaryrongo.anindyaspaul.com/2013/12/06/counting-sort/) - [অনিন্দ্য পাল](http://anindyaspaul.com/)
-    - [কাউন্টিং সর্ট](http://hellohasan.com/2016/09/25/%e0%a6%95%e0%a6%be%e0%a6%89%e0%a6%a8%e0%a7%8d%e0%a6%9f%e0%a6%bf%e0%a6%82-%e0%a6%b8%e0%a6%b0%e0%a7%8d%e0%a6%9f-counting-sort-algorithm) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
-
-* মার্জ সর্ট (Merge sort)
-    - [মার্জ সর্ট](http://hellohasan.com/2016/10/22/%e0%a6%ae%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%9c-%e0%a6%b8%e0%a6%b0%e0%a7%8d%e0%a6%9f-%e0%a6%85%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b2%e0%a6%97%e0%a6%b0%e0%a6%bf%e0%a6%a6%e0%a6%ae-merge-sort-algorithm) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
-    - [মার্জ সর্ট - ১ (ভিডিও)](https://youtu.be/mWuk56Aa6xw) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
-    - [মার্জ সর্ট - ২ - সি দিয়ে ইমপ্লিমেন্টেশন (ভিডিও)](https://youtu.be/-UzllqjFHW8) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
-    - [মার্জ সর্ট - ৩ - স্পেস ও টাইম কমপ্লেক্সিটি (ভিডিও)](https://youtu.be/g63rwGXC720) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
-    * [পেয়ার সর্ট Pair Sort in C++ ( Sort An Array According To Another Array Value) ](https://www.shawonruet.com/2016/07/sort-array-according-to-another-array.html) - [আসাদুল্লাহ শাওন](https://web.facebook.com/ashadullah.shawon)
-
-
-* কুইক সর্ট (Quick sort)
-    - [কুইক সর্ট](http://hellohasan.com/2016/11/02/%e0%a6%95%e0%a7%81%e0%a6%87%e0%a6%95-%e0%a6%b8%e0%a6%b0%e0%a7%8d%e0%a6%9f-%e0%a6%85%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b2%e0%a6%97%e0%a6%b0%e0%a6%bf%e0%a6%a6%e0%a6%ae-quicksort-algorithm) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
-    - [কুইক সর্ট ১ - অ্যালগরিদম (ভিডিও)](https://youtu.be/PmlfVdY_XjI) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
-    - [কুইক সর্ট ২ - পার্টিশন (ভিডিও)](https://youtu.be/kwG0C2Lv-fQ) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
-
-* সিলেকশন সর্ট (Selection Sort)
-    - [সিলেকশন সর্ট (ভিডিও)](https://youtu.be/qHmByz1YvQs) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
-    - [সিলেকশন সর্ট(Selection sort) অ্যালগরিদম](https://baburjhuli.blogspot.com/2022/02/selection-sort-algorithm.html) - [শাকিল বাবু](https://www.facebook.com/profile.php?id=100025305922873)
-
-* ইনসার্শন সর্ট (Insertion Sort)
-    - [ইনসার্শন সর্ট (ভিডিও)](https://youtu.be/aBi8ptRBWY8) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
 
 * হিপ সর্ট (Heap Sort)
     - [হিপ সর্ট - ১ (ভিডিও)](https://youtu.be/m7x0GETKPaU) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
@@ -341,20 +274,6 @@ image:
 - [গিটহাবে ওপেনসোর্স প্রজেক্টে কন্ট্রিবিউশনের সহজ ওয়ার্কফ্লো](https://medium.com/@me_shaon/%E0%A6%97%E0%A6%BF%E0%A6%9F%E0%A6%B9%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%93%E0%A6%AA%E0%A7%87%E0%A6%A8%E0%A6%B8%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%B8-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%9C%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%9F%E0%A7%87-%E0%A6%95%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A6%BF%E0%A6%89%E0%A6%B6%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%B9%E0%A6%9C-%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%AB%E0%A7%8D%E0%A6%B2%E0%A7%8B-1a2d8b107391) - [আহমেদ শামীম হাসান](https://www.facebook.com/ahmed.shamim.hassan)
 
 ---
-
-## আর্টিফিশিয়াল ইন্টিলিজেন্স, মেশিন লার্নিং
-
-* [হাতেকলমে ন্যাচারাল ল্যাঙ্গুয়েজ প্রসেসিং (এনএলপি) - শুরুর ধারণা](https://github.com/raqueeb/nlp_bangla) - [রকিবুল হাসান](https://github.com/raqueeb)
-* [হাতেকলমে মেশিন লার্নিং (আর এবং পাইথন প্রোগ্রামিং এনভায়রনমেন্ট)](https://rakibul-hassan.gitbook.io/mlbook-titanic/) - [রকিবুল হাসান](https://github.com/raqueeb)
-* [মেশিন লার্নিং? কম্পিউটার আবার শিখে কিভাবে!](http://adhikary.net/post/machine-learning/) - [অনিরুদ্ধ অধিকারী](https://www.linkedin.com/in/tuxboy/)
-* [ডিপ লার্নিং ও আর্টিফিশিয়াল নিউরাল নেটওয়ার্ক](https://dl.howtocode.dev/) - [নুহিল মেহেদী](https://www.facebook.com/nuhil)
-* [Multi Layer Perceptron And Back Propagation Step By Step in Bangla ](https://www.shawonruet.com/2018/06/multi-layer-perception-and-back.html) - -[আসাদুল্লাহ শাওন](https://web.facebook.com/ashadullah.shawon)
-* [মেশিন লার্নিং (১): শুরুর কথা।](https://iishanto.com/2020/07/22/%e0%a6%ae%e0%a7%87%e0%a6%b6%e0%a6%bf%e0%a6%a8-%e0%a6%b2%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%a8%e0%a6%bf%e0%a6%82-%e0%a7%a7-%e0%a6%b6%e0%a7%81%e0%a6%b0%e0%a7%81%e0%a6%b0-%e0%a6%95%e0%a6%a5%e0%a6%be/) - [শরিফ হাসান](https://facebook.com/io.shanto)
-* [মেশিন লার্নিং (২): লিনিয়ার রিগ্রেশন, মডেল রিপ্রেজেন্টেশন ও কস্ট (Cost) ফাংশন](https://iishanto.com/2020/08/04/%e0%a6%b2%e0%a6%bf%e0%a6%a8%e0%a6%bf%e0%a7%9f%e0%a6%be%e0%a6%b0-%e0%a6%b0%e0%a6%bf%e0%a6%97%e0%a7%8d%e0%a6%b0%e0%a7%87%e0%a6%b6%e0%a6%a8-%e0%a6%93-%e0%a6%95%e0%a6%b7%e0%a7%8d%e0%a6%9f-%e0%a6%ab/) - [শরিফ হাসান](https://facebook.com/io.shanto)
-* [কস্ট ফাংশনের অন্তরীকরণ এবং গ্র্যাডিয়েন্ট ডিসেন্ট](https://iishanto.com/2020/11/06/%e0%a6%95%e0%a6%b8%e0%a7%8d%e0%a6%9f-%e0%a6%ab%e0%a6%be%e0%a6%82%e0%a6%b6%e0%a6%a8%e0%a7%87%e0%a6%b0-%e0%a6%85%e0%a6%a8%e0%a7%8d%e0%a6%a4%e0%a6%b0%e0%a7%80%e0%a6%95%e0%a6%b0%e0%a6%a3-%e0%a6%8f/) - [শরিফ হাসান](https://facebook.com/io.shanto)
-* [Face recognition: ছবি থেকে মুখ শনাক্তকরণ পদ্ধতি](https://iishanto.com/face-recognition-bangla-tutorial/) - [শরিফ হাসান](https://facebook.com/io.shanto)
-* [Deep learning Bangla resources with TensorFlow](https://github.com/menon92/DL-Sneak-Peek) - [Mehadi Hasan Menon](https://github.com/menon92)
----
 ## অন্যান্য
 
 ### স্কেলিং এন্ড পারফর্মেন্স অপটিমাইজেশন
@@ -426,38 +345,6 @@ image:
 * [কনফিউজড প্রোগ্রামার](http://www.shafaetsplanet.com/planetcoding/?p=3113) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 
 ---
-
-## টেক টক, পডকাস্ট এবং ইউটিউব চ্যানেল
-* [Tech Tong Youtube Channel](https://www.youtube.com/c/TechTongBD)
-* [BSADD Community, BUET Youtube Channel](https://www.youtube.com/channel/UCSEEEKX5ts05xGkdeZJIvmw)
-* [বাংলা টেক টক পডকাস্ট](https://banglatechtalk.com)
-* [Klassroom, Youtube Channel](https://www.youtube.com/c/KlassroomGlobal/)
-* [Anisul Islam](https://www.youtube.com/user/ANIS3730)
-* [Tamim Shahriar](https://www.youtube.com/user/subeents)
-* [Jhankar Mahbub](https://www.youtube.com/user/jhankarmahbub)
-* [Stack Learner](https://www.youtube.com/channel/UCrmHQdRbYKFsB602Duho4Tw)
-* [JS Bangladesh](https://www.youtube.com/channel/UCC-aIlmCJvIERahr2spCEDg)
-* [Code With Zonayed](https://www.youtube.com/channel/UCV-LSzDRvKuLNC6SlChWkJA)
-* [Hablu Programmer](https://www.youtube.com/channel/UCpGQisjfG8w-E21cG4ScEOA)
-* [Rasel Ahmed](https://www.youtube.com/channel/UC94qXY-Icq1xaoGCQI11-mw)
-* [Zulkarnine Mahmud](https://www.youtube.com/channel/UCH2RRllj1QbqFRgAlqhesGQ)
-* [Rabbil Hasan](https://www.youtube.com/channel/UCSMFY8_rooijS-Zv43tKCrQ)
-* [Learn with Sumit](https://www.youtube.com/user/sumitanalyzen)
-* [Learn Hunter](https://www.youtube.com/channel/UC7lIh9A3Isi_v0o_bvu5dKQ)
-* [Learn with Hasin Hayder](https://www.youtube.com/channel/UCwkHodC3PikVnMUQ2w-LraA)
-* [রকিবের সাথে 'কৃত্রিম বুদ্ধিমত্তা'](https://www.youtube.com/c/রকিবেরসাথেকৃত্রিমবুদ্ধিমত্তা)
-* [Lecturelia](https://www.youtube.com/c/Lecturelia/featured)
-* [Farhan Hossan](https://www.youtube.com/c/FarhanHossan)
-* [Foyzul Karim](https://www.youtube.com/c/FoyzulKarim)
-* [Code For Food](https://www.youtube.com/@CodeForFoodTutorials)
-* [CODE ABC](https://www.youtube.com/@CODEABC)
-* [webdeveloper bd](https://www.youtube.com/@webdeveloperbd)
-* [Study With Janin A Apurba](https://www.youtube.com/@studywithjanin)
-* [Procoder BD](https://www.youtube.com/@ProcoderBD)
-* [Programming Hero Community](https://www.youtube.com/@ProgrammingHeroCommunity)
-* [Bangla Coding Tutor](https://www.youtube.com/c/BanglaCodingTutor)
-* [Megaminds Learning](https://www.youtube.com/@MegamindsLearning)
-
 
 > You can leave a comment & react to my post below using your GitHub account. I added this requirement for GitHub account to avoid spam comments.
 {: .prompt-info }
