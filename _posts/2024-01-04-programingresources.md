@@ -10,7 +10,7 @@ tags: [programing]    # TAG names should always be lowercase
 
 # বাংলায় প্রোগ্রামিং রিসোর্সসমূহ
 
-> বাংলায় সহজবোধ্য প্রোগ্রামিং টিউটরিয়াল, রেফারেন্স এবং অন্যান্য প্রয়োজনীয় লিংকের তালিকা
+> বাংলায় সহজবোধ্য প্রোগ্রামিং টিউটরিয়াল, রেফারেন্স এবং অন্যান্য প্রয়োজনীয় লিংকের তালিকা।
 
 ---
 
@@ -37,10 +37,26 @@ tags: [programing]    # TAG names should always be lowercase
 * [নতুন করে শিখি জাভাস্ক্রিপ্ট](https://developer.mozilla.org/bn-BD/docs/Web/JavaScript/A_re-introduction_to_JavaScript) - [Mozilla Developer Network Blog](https://developer.mozilla.org/bn-BD/)
 * [হাতেকলমে জাভাস্ক্রিপ্ট](https://js.zonayed.me) - [Learn With Zonayed](https://with.zonayed.me/bn)
 
-
 ### পিএইচপি (PHP)
 * [বাংলায় পিএইচপি](https://php.howtocode.dev/) - [How-to-code](https://www.howtocode.dev/)
 
+### রিকার্শন, ব্যাকট্র্যাকিং
+* [রিকার্শন (RECURSION)](http://binaryrongo.anindyaspaul.com/2015/12/25/recursion/) - [অনিন্দ্য পাল](http://anindyaspaul.com/)
+* [ব্যকট্র্যাকিং বেসিক এবং পারমুটেশন জেনারেটর](http://www.shafaetsplanet.com/planetcoding/?p=1266) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+* [টাওয়ার অফ হ্যানয়](http://subeen.com/%E0%A6%9F%E0%A6%BE%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%B0-%E0%A6%85%E0%A6%AB-%E0%A6%B9%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%9F/) - [তামান্না নিশাত রিনি](https://www.facebook.com/nishat.rini)
+* [Backtrack & N Queen](http://shakilcompetitiveprogramming.blogspot.nl/2015/05/backtrack-n-queen.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
+* [ইনক্লুশন এক্সক্লুশন – রিকার্শন](http://shoshikkha.com/archives/2143) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
+* [রিকার্সিভ ফাংশনের সৌন্দর্য](https://hellohasan.com/tag/recursion/) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
+
+### স্ট্রিং এলগোরিদম
+* [KMP (Knuth-Morris-Pratt algorithm)](https://tanvir002700.wordpress.com/2015/03/03/kmp-knuth-morris-pratt-algorithm/) - [তানভীর হাসান অনিক](https://www.facebook.com/anick.silentkiller)
+* [স্ট্রিং হ্যাশিং, রোলিং হ্যাশ এবং রবিন-কার্প এলগোরিদম (Rabin-Karp algorithm)](http://ami-alavola.rhcloud.com/?p=231) - [আলাভোলা](https://medium.com/@amialavola)
+* [Aho-Corasick দিয়ে String Matching](http://www.abuasifkhan.me/aho-corasick.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
+* [Z Algorithm](http://shakilcompetitiveprogramming.blogspot.nl/2015/06/z-algorithm.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
+* [আহো-কোরাসিক(Aho-Corasick) অ্যালগোরিদম](https://returnzerooo.wordpress.com/2017/09/28/%E0%A6%86%E0%A6%B9%E0%A7%8B-%E0%A6%95%E0%A7%8B%E0%A6%B0%E0%A6%BE%E0%A6%B8%E0%A6%BF%E0%A6%95/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
+* [KMP অ্যালগোরিদম](https://returnzerooo.wordpress.com/2016/09/08/kmp/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
+* [রবিন-কার্প স্ট্রিং ম্যাচিং](http://www.shafaetsplanet.com/?p=3028) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+* [নুথ-মরিসন-প্র্যাট (কেএমপি) অ্যালগরিদমিং](http://www.shafaetsplanet.com/?p=3209) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 
 ## এলগোরিদম
 
@@ -88,16 +104,6 @@ tags: [programing]    # TAG names should always be lowercase
     * [চেক প্যালিনড্রোম (Palindrome) - using Stack](https://baburjhuli.blogspot.com/2022/02/check-palindrome-using-stack.html) - [শাকিল বাবু](https://www.facebook.com/profile.php?id=100025305922873)
     * [ফাইন্ড ফ্যাক্টরিয়াল - Using Stack](https://baburjhuli.blogspot.com/2022/02/find-palindrome-number-using-stack.html) - [শাকিল বাবু](https://www.facebook.com/profile.php?id=100025305922873)
 
-* কিউ (Queue)
-    * [কিউ ব্যাসিক অপারেশন](http://hellohasan.com/category/data-structure/queue) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
-    * [কিউ (ভিডিও)](https://youtu.be/IFWHj7_OW2k) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
-    * [কিউ বেসিক ডাটা স্ট্রাকচার](http://blog.faiyaz.info/%e0%a6%95%e0%a6%bf%e0%a6%89-%e0%a6%a1%e0%a6%be%e0%a6%9f%e0%a6%be-%e0%a6%b8%e0%a7%8d%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%95%e0%a6%9a%e0%a6%be%e0%a6%b0/) - [আহমাদ ফাইয়াজ](https://www.facebook.com/faiyaz26s)
-    * [ডাটা স্ট্রাকচার: কিউ(Queue)](http://ami-alavola.rhcloud.com/?p=54) - [আলাভোলা](https://medium.com/@amialavola)
-    * [সি++ এর Priority Queue](http://www.abuasifkhan.me/cplusplus-priority-queue.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
-    * [প্রায়োরিটি কিউ (ভিডিও)](https://youtu.be/v0tzjgW0i8E) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
-    * [বাইনারি হিপ বা প্রায়োরিটি কিউ](https://iishanto.com/%e0%a6%ac%e0%a6%be%e0%a6%87%e0%a6%a8%e0%a6%be%e0%a6%b0%e0%a6%bf-%e0%a6%b9%e0%a7%80%e0%a6%aa-heap-%e0%a6%ac%e0%a6%be-%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a7%9f%e0%a7%8b%e0%a6%b0%e0%a6%bf%e0%a6%9f/) - [শরিফ হাসান](https://facebook.com/io.shanto)
-    * [কিউ(Queue) ডাটা-স্ট্রাকচার ইন পাইথন](https://baburjhuli.blogspot.com/2022/02/queue-ds-in-python.html) - [শাকিল বাবু](https://www.facebook.com/profile.php?id=100025305922873)
-    * [কিউ(Queue) ডাটা-স্ট্রাকচার ইন জাভাস্ক্রিপ্ট](https://baburjhuli.blogspot.com/2022/01/queue-data-structure-in-javascript.html) - [শাকিল বাবু](https://www.facebook.com/profile.php?id=100025305922873)
 
 * ট্রি (Tree)
    * [ট্রি ডেটা স্ট্রাকচার](http://hellohasan.com/category/data-structure/tree/tree-basic-concept/) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
@@ -116,10 +122,6 @@ tags: [programing]    # TAG names should always be lowercase
 
 * হ্যাশটেবিল (HashTable)
     * [হ্যাশটেবিল (Hashtable)](https://medium.com/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%82-%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE/%E0%A6%B9%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B6-hash-%E0%A6%8F%E0%A6%AC%E0%A6%82-%E0%A6%B9%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B6%E0%A6%BF%E0%A6%82-hashing-12b7cb6056b8) - [আলাভোলা](https://medium.com/@amialavola)
-
-* ডিসজয়েন্ট সেট (Disjoint Set)
-    * [ডিসজয়েন্ট সেট(ইউনিয়ন ফাইন্ড)](http://www.shafaetsplanet.com/planetcoding/?p=763) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-    * [Union Find Algorithm](http://shakilcompetitiveprogramming.blogspot.nl/2014/01/union-find-algorithm-union-find.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
 
 * ট্রাই ট্রি (Trie)
     * [ট্রাই(প্রিফিক্স ট্রি/রেডিক্স ট্রি)](http://www.shafaetsplanet.com/planetcoding/?p=1679) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
@@ -175,18 +177,6 @@ tags: [programing]    # TAG names should always be lowercase
     * [রিকার্শনের মাধ্যমে মডুলার এক্সপনেন্সিয়েশন!](http://shoshikkha.com/archives/29) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
     * [বিগ ইন্টিজার রিমেইন্ডার (Big Integer Remainder) ](https://www.shawonruet.com/2016/07/big-integer-remainder.html) - [আসাদুল্লাহ শাওন](https://www.facebook.com/ashadullah.shawon)
 
-* কম্বিনেটরিক্স (Combinatorics)
-    * বিন্যাস করা যাক [1](http://www.abuasifkhan.me/permutation1.html), [2](http://www.abuasifkhan.me/permutation2.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
-    * [N-th permutation (N-তম পারমুটেশন)](http://ami-alavola.rhcloud.com/?p=68) - [আলাভোলা](https://medium.com/@amialavola)
-    * [ডিরেঞ্জমেন্ট](http://www.shafaetsplanet.com/planetcoding/?p=600) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-    * [” ফাস্ট ” এক্সপনেনসিয়েশন!](http://shoshikkha.com/archives/4356) - [সাদমান সাকিব](https://www.facebook.com/saadmaan.sakib)
-
-* ইউক্লিডিয়ান এলগোরিদম (Euclidean Algorithm)
-    * [ইউক্লিডিয়ান অ্যালগরিদম](http://subeen.com/%E0%A6%87%E0%A6%89%E0%A6%95%E0%A7%8D%E0%A6%B2%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%A8-%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%A6%E0%A6%AE/) - [তামান্না নিশাত রিনি](https://www.facebook.com/nishat.rini)
-    * [খাতা-কলমে Extended Euclid Method](http://www.abuasifkhan.me/extended-euclid-method.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
-    * [Extended Euclidean Algorithm এবং একটুখানি Modular Multiplicative Inverse](http://www.abuasifkhan.me/extended-euclidean-algorithm.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
-    * [এক্সটেন্ডেড ইউক্লিডীয়ান অ্যালগোরিদম](https://returnzerooo.wordpress.com/2017/08/12/%E0%A6%8F%E0%A6%95%E0%A7%8D%E0%A6%B8%E0%A6%9F%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A7%87%E0%A6%A1-%E0%A6%87%E0%A6%89%E0%A6%95%E0%A7%8D%E0%A6%B2%E0%A6%BF%E0%A6%A1%E0%A7%80%E0%A7%9F%E0%A6%BE%E0%A6%A8/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
-
 
 * প্রোবাবিলিটি (Probability)
     * [প্রোবাবিলিটি: এক্সপেক্টেড ভ্যালু](http://www.shafaetsplanet.com/planetcoding/?p=3060) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
@@ -233,23 +223,9 @@ tags: [programing]    # TAG names should always be lowercase
   * [গ্রাফ শর্টেস্ট পাথ: ডায়াক্সট্রা অ্যালগরিদম](https://iishanto.com/dijkstra-algorithm-bangla-tutorial/) - [শরিফ হাসান](https://facebook.com/io.shanto)
   * [গ্রাফ শর্টেস্ট পাথ: বেলম্যান ফোর্ড অ্যালগরিদম](https://iishanto.com/single-source-shortest-path-bellman-ford-algorithm/) - [শরিফ হাসান](https://facebook.com/io.shanto)
 
-* মিনিমাম স্প্যানিং ট্রি (Minimum Spanning Tree)
-  * [মিনিমাম স্প্যানিং ট্রি ১ (প্রিমস অ্যালগোরিদম)](http://www.shafaetsplanet.com/planetcoding/?p=692) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-  * [মিনিমাম স্প্যানিং ট্রি ২ (ক্রুসকাল অ্যালগোরিদম)](http://www.shafaetsplanet.com/planetcoding/?p=825) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-  * [প্রিম’স অ্যালগোরিদম : মিনিমাম স্প্যানিং ট্রি](https://returnzerooo.wordpress.com/2016/06/09/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%AE%E0%A6%B8-%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%97%E0%A7%8B%E0%A6%B0%E0%A6%BF%E0%A6%A6%E0%A6%AE/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
-
-* বাইকানেক্টেড কম্পোনেন্ট , ব্রিজ, আরটিকুলেশন পয়েন্ট (Bi-connected Component, Bridge, Articulation Point)
-  * [আর্টিকুলেশন পয়েন্ট এবং ব্রীজ](http://www.shafaetsplanet.com/planetcoding/?p=2504) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-  * [বাইকানেক্টেড কম্পোনেন্ট , ব্রিজ, আরটিকুলেশন পয়েন্ট (থিওরী)](http://blog.faiyaz.info/bcc/) - [আহমাদ ফাইয়াজ](https://www.facebook.com/faiyaz26s)
-  * [আর্টিকুলেশন পয়েন্ট](https://sketchingdream.wordpress.com/as-artpoint/) - [মোহাম্মদ সায়েফ](https://www.facebook.com/mohammad.sayef)
-
-* স্ট্রংলি কানেক্টেড কম্পোনেন্ট (Strongly Connected Component)
-  * [স্ট্রংলি কানেক্টেড কম্পোনেন্ট](http://www.shafaetsplanet.com/planetcoding/?p=2531) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-
 * নেটওয়ার্ক ফ্লো এলগোরিদম (Network Flow Algorithm)
   * [ম্যাক্সিমাম ফ্লো-১ ](http://www.shafaetsplanet.com/planetcoding/?p=2195) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
   * [ম্যাক্সিমাম ফ্লো-২ ](http://www.shafaetsplanet.com/planetcoding/?p=2231) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-
 
 * [স্টেবল ম্যারেজ প্রবলেম](http://www.shafaetsplanet.com/planetcoding/?p=1187) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 * [মিনিমাম ভারটেক্স কভার](http://www.shafaetsplanet.com/planetcoding/?p=582) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
@@ -364,30 +340,6 @@ tags: [programing]    # TAG names should always be lowercase
 * টারনারি সার্চ
    - [TERNARY SEARCH](http://shoshikkha.com/archives/4332) - [রেদওয়ান আহমেদ]()
    - [টারনারি সার্চ ও তার অ্যালগরিদম](https://iishanto.com/ternary-search-bangla-tutorial/) - [শরিফ হাসান](https://facebook.com/io.shanto)
-
-
-### গ্রীডি মেথড
-* Greedy Method [1](http://shakilcompetitiveprogramming.blogspot.com/2014/09/greedy-method.html), [2](http://shakilcompetitiveprogramming.blogspot.com/2015/06/greedy-part-2.html), [3](http://shakilcompetitiveprogramming.blogspot.com/2016/04/greedy-part-3.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
-* [two pointer](http://shakilcompetitiveprogramming.blogspot.com/2015/06/two-pointer.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
-
-
-### রিকার্শন, ব্যাকট্র্যাকিং
-* [রিকার্শন (RECURSION)](http://binaryrongo.anindyaspaul.com/2015/12/25/recursion/) - [অনিন্দ্য পাল](http://anindyaspaul.com/)
-* [ব্যকট্র্যাকিং বেসিক এবং পারমুটেশন জেনারেটর](http://www.shafaetsplanet.com/planetcoding/?p=1266) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-* [টাওয়ার অফ হ্যানয়](http://subeen.com/%E0%A6%9F%E0%A6%BE%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%B0-%E0%A6%85%E0%A6%AB-%E0%A6%B9%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%9F/) - [তামান্না নিশাত রিনি](https://www.facebook.com/nishat.rini)
-* [Backtrack & N Queen](http://shakilcompetitiveprogramming.blogspot.nl/2015/05/backtrack-n-queen.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
-* [ইনক্লুশন এক্সক্লুশন – রিকার্শন](http://shoshikkha.com/archives/2143) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
-* [রিকার্সিভ ফাংশনের সৌন্দর্য](https://hellohasan.com/tag/recursion/) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
-
-### স্ট্রিং এলগোরিদম
-* [KMP (Knuth-Morris-Pratt algorithm)](https://tanvir002700.wordpress.com/2015/03/03/kmp-knuth-morris-pratt-algorithm/) - [তানভীর হাসান অনিক](https://www.facebook.com/anick.silentkiller)
-* [স্ট্রিং হ্যাশিং, রোলিং হ্যাশ এবং রবিন-কার্প এলগোরিদম (Rabin-Karp algorithm)](http://ami-alavola.rhcloud.com/?p=231) - [আলাভোলা](https://medium.com/@amialavola)
-* [Aho-Corasick দিয়ে String Matching](http://www.abuasifkhan.me/aho-corasick.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
-* [Z Algorithm](http://shakilcompetitiveprogramming.blogspot.nl/2015/06/z-algorithm.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
-* [আহো-কোরাসিক(Aho-Corasick) অ্যালগোরিদম](https://returnzerooo.wordpress.com/2017/09/28/%E0%A6%86%E0%A6%B9%E0%A7%8B-%E0%A6%95%E0%A7%8B%E0%A6%B0%E0%A6%BE%E0%A6%B8%E0%A6%BF%E0%A6%95/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
-* [KMP অ্যালগোরিদম](https://returnzerooo.wordpress.com/2016/09/08/kmp/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
-* [রবিন-কার্প স্ট্রিং ম্যাচিং](http://www.shafaetsplanet.com/?p=3028) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-* [নুথ-মরিসন-প্র্যাট (কেএমপি) অ্যালগরিদমিং](http://www.shafaetsplanet.com/?p=3209) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 
 ### জিওমেট্রী
 * [সার্কেল ইউনিয়ন](http://chorui12.blogspot.com/2012/05/blog-post.html) - [আনা ফারিহা](https://www.facebook.com/chorui12)
