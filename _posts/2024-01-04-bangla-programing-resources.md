@@ -1,7 +1,7 @@
 ---
 title: বাংলা প্রোগ্রামিং রিসোরসেস [Updated 03 January 2024]
 date: 2024-01-03 23:35:00 +0600
-categories: [posts][help]
+categories: [help]
 tags: [programing]     # TAG names should always be lowercase
 
 ---
