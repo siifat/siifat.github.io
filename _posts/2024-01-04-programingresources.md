@@ -7,7 +7,7 @@ tags: [programing]    # TAG names should always be lowercase
 ---
 
 ---
-[![Banner](https://giphy.com/gifs/pudgypenguins-work-computer-working-QDjpIL6oNCVZ4qzGs7)]
+[![Banner](https://media3.giphy.com/media/Zd0DYHlBmZTGaiIFRY/giphy.gif)]
 
 ---
 # বাংলায় প্রোগ্রামিং রিসোর্সসমূহ
