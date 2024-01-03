@@ -105,23 +105,12 @@ tags: [programing]    # TAG names should always be lowercase
     * [ফাইন্ড ফ্যাক্টরিয়াল - Using Stack](https://baburjhuli.blogspot.com/2022/02/find-palindrome-number-using-stack.html) - [শাকিল বাবু](https://www.facebook.com/profile.php?id=100025305922873)
 
 
-* ট্রি (Tree)
-   * [ট্রি ডেটা স্ট্রাকচার](http://hellohasan.com/category/data-structure/tree/tree-basic-concept/) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
-   * [ট্রি - ১ (Tree - 1) - ট্রি-এর প্রাথমিক ধারণা (ভিডিও)](https://youtu.be/0I1JVXbHpec) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
-   * [ট্রি - ২ (Tree - 2) - কোনটি ট্রি কোনটি নয়? (ভিডিও)](https://youtu.be/Rz93CQd7jXc) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
-   * [বাইনারি ট্রি প্রিঅর্ডার ট্রাভার্সাল (ভিডিও)](https://youtu.be/p0ltqTz93Nk) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
-   * [বাইনারি ট্রি পোস্টঅর্ডার ট্রাভার্সাল (ভিডিও)](https://youtu.be/zd5ayCGPQXA) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
-   * [বাইনারি ট্রি ইনঅর্ডার ট্রাভার্সাল (ভিডিও)](https://youtu.be/D9cvhd-jPGs) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
-
 * বাইনারী সার্চ ট্রি (Binary Search Tree)
     * [বাইনারি সার্চ ট্রি](http://hellohasan.com/category/data-structure/tree/binary-search-tree-bst) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
     * [বাইনারি সার্চ ট্রি - ১ (ভিডিও)](https://youtu.be/FpekDm8ztVA) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
     * [বাইনারি সার্চ ট্রি - ২ (ভিডিও)](https://youtu.be/PrHoIGnU3c0) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
     * [বাইনারি সার্চ ট্রি - ৩ (ভিডিও)](https://youtu.be/IAHqCl5b4fE) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
     * [বাইনারি সার্চ ট্রি - ৪(ভিডিও)](https://youtu.be/F2uwPe3GaVU) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
-
-* হ্যাশটেবিল (HashTable)
-    * [হ্যাশটেবিল (Hashtable)](https://medium.com/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%82-%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE/%E0%A6%B9%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B6-hash-%E0%A6%8F%E0%A6%AC%E0%A6%82-%E0%A6%B9%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B6%E0%A6%BF%E0%A6%82-hashing-12b7cb6056b8) - [আলাভোলা](https://medium.com/@amialavola)
 
 * ট্রাই ট্রি (Trie)
     * [ট্রাই(প্রিফিক্স ট্রি/রেডিক্স ট্রি)](http://www.shafaetsplanet.com/planetcoding/?p=1679) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
@@ -165,19 +154,6 @@ tags: [programing]    # TAG names should always be lowercase
     * [ডিভিসর এর সংখ্যা নির্নয় (Finding Number of Divisors) ](https://www.shawonruet.com/2016/07/finding-number-of-divisors.html) - [আসাদুল্লাহ শাওন](https://web.facebook.com/ashadullah.shawon)
     * [ডিভিসর এর যোগফল নির্নয় (Finding Sum Of Divisors) ](https://www.shawonruet.com/2016/07/finding-sum-of-divisors.html) - [আসাদুল্লাহ শাওন](https://web.facebook.com/ashadullah.shawon)
 
-* মডুলার অ্যারিথমেটিক (Modular Arithmetic)
-    * [মডুলার অ্যারিথমেটিক](http://www.shafaetsplanet.com/planetcoding/?p=936) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-    * [সংখ্যাতত্ত্ব: মডুলার অ্যারিথমেটিক (Modular arithmetic) – Big mod](https://iishanto.com/modular-arithmetic-and-modular-inverse-bangla-tutorial/) - [শরিফ হাসান](https://facebook.com/io.shanto)
-    * [Modular Multiplicative Inverse](https://mukitmkbs.wordpress.com/2014/10/01/modular-multiplicative-inverse/) - [মুকিত  চৌধুরী](https://www.facebook.com/hesitated.mkbs)
-    * [Big Mod](https://mukitmkbs.wordpress.com/2014/09/30/big-mod/) - [মুকিত  চৌধুরী](https://www.facebook.com/hesitated.mkbs)
-    * [বিগ মড (Big Mod)](https://www.shawonruet.com/2017/06/blog-post.html) - [আসাদুল্লাহ শাওন](https://www.facebook.com/ashadullah.shawon)
-    * [হিমালয়ের সমান ভাগফল,এক ডিজিটের ভাগশেষ](http://shoshikkha.com/archives/3487) - [সাদমান সাকিব](https://www.facebook.com/saadmaan.sakib)
-    * [হিমালয়ের সমান ভাগফল,এক ডিজিটের ভাগশেষ – রিটার্নস!](http://shoshikkha.com/archives/3510) - [সাদমান সাকিব](https://www.facebook.com/saadmaan.sakib)
-    * [সংখ্যাকে পেটানো! ( বিভাজক নির্ণয় )](http://shoshikkha.com/archives/1069) - [সাদমান সাকিব](https://www.facebook.com/saadmaan.sakib)
-    * [রিকার্শনের মাধ্যমে মডুলার এক্সপনেন্সিয়েশন!](http://shoshikkha.com/archives/29) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
-    * [বিগ ইন্টিজার রিমেইন্ডার (Big Integer Remainder) ](https://www.shawonruet.com/2016/07/big-integer-remainder.html) - [আসাদুল্লাহ শাওন](https://www.facebook.com/ashadullah.shawon)
-
-
 * প্রোবাবিলিটি (Probability)
     * [প্রোবাবিলিটি: এক্সপেক্টেড ভ্যালু](http://www.shafaetsplanet.com/planetcoding/?p=3060) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
     * [Probability & Expected value](http://shakilcompetitiveprogramming.blogspot.nl/2015/08/probability-expected-value-part-1.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
@@ -187,53 +163,6 @@ tags: [programing]    # TAG names should always be lowercase
 * [Chinese Remainder Theorem](http://www.abuasifkhan.me/chinese-remainder-theorem.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
 * [Ф ফাংশন (EULER’S PHI FUNCTION) – TOTIENT ফাংশন](http://shoshikkha.com/archives/1472) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
 * [Fast Fourier Transform](https://rezwanarefin01.github.io/posts/fast-fourier-transform) -  [রেজওয়ান আরেফিন](https://www.facebook.com/RezwanArefin01)
-
-### গ্রাফ থিওরী
-
-* গ্রাফ থিওরি ব্যাসিক
-  * [গ্রাফ থিওরিতে হাতেখড়ি](http://www.shafaetsplanet.com/planetcoding/?p=143) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-  * [অ্যাডজেসেন্সি ম্যাট্রিক্স](http://www.shafaetsplanet.com/planetcoding/?p=184) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-  * [অ্যাডজেসেন্সি লিস্ট](http://www.shafaetsplanet.com/planetcoding/?p=211) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-  * [অ্যাডজেসেন্সি লিস্ট ট্রিক](http://www.progkriya.org/gyan/adj-list-trick.html) - [মীর ওয়াসি আহমেদ](https://www.facebook.com/mirwasi)
-  * [গ্রাফ বেসিক: গ্রাফ এবং গ্রাফ এর রিপ্রেজেন্টেশন](https://iishanto.com/%e0%a6%97%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%ab-%e0%a6%b0%e0%a6%bf%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a7%87%e0%a6%9c%e0%a7%87%e0%a6%a8%e0%a7%8d%e0%a6%9f%e0%a7%87%e0%a6%b6%e0%a6%a8-adjacency-list-and-adjacenc/) - [শরিফ হাসান](https://facebook.com/io.shanto)
-
-* ব্রেথড ফার্স্ট সার্চ-বিএফএস (Breadth First Search-BFS)
-  * [ব্রেথড ফার্স্ট সার্চ (বিএফএস)](http://www.shafaetsplanet.com/planetcoding/?p=604) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-  * [ট্রি এর ডায়ামিটার নির্ণয়](http://www.shafaetsplanet.com/planetcoding/?p=521) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-  * [0/1 BFS](http://shakilcompetitiveprogramming.blogspot.nl/2016/05/01-bfs.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
-  * [BFS/DFS part - 1](http://shakilcompetitiveprogramming.blogspot.nl/2015/06/bfsdfs-part-1.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
-  * [ব্রেথড ফার্স্ট সার্চ (বিএফএস) স্টেপ বাই স্টেপ](https://www.shawonruet.com/2017/02/breadth-first-search-bfs.html) - [আসাদুল্লাহ শাওন](https://web.facebook.com/ashadullah.shawon)
-  * [গ্রাফঃ বিএফএস (BFS) গ্রাফ ট্রাভার্সাল অ্যালগরিদম](https://iishanto.com/%e0%a6%97%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%ab%e0%a6%83-%e0%a6%ac%e0%a6%bf%e0%a6%8f%e0%a6%ab%e0%a6%8f%e0%a6%b8-%e0%a6%97%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%ab-%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%be/) - [শরিফ হাসান](https://facebook.com/io.shanto)
-
-* ডেপথ ফার্স্ট সার্চ-ডিএফএস (Depth First Search-DFS)
-  * [ডেপথ ফার্স্ট সার্চ এবং আবারো টপোলোজিকাল সর্ট](http://www.shafaetsplanet.com/planetcoding/?p=973) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-  * [ফ্লাড ফিল অ্যালগরিদম](http://hellohasan.com/2016/08/21/%e0%a6%ab%e0%a7%8d%e0%a6%b2%e0%a6%be%e0%a6%a1-%e0%a6%ab%e0%a6%bf%e0%a6%b2-flood-fill-algorithm-bengali) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
-  * [টপোলজিকাল সর্ট](http://www.shafaetsplanet.com/planetcoding/?p=848) -  [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-  * [টপোলজিক্যাল সর্ট](https://sites.google.com/site/smilitude/topsort) - [ইকরাম মাহমুদ](https://www.facebook.com/profile.php?id=100000831994504)
-  * [ডিএফএস রিকার্শন (DFS Recursion)](https://www.shawonruet.com/2017/06/dfs-recursion.html) - [আসাদুল্লাহ শাওন](https://web.facebook.com/ashadullah.shawon)
-
-* গ্রাফ থিওরী - শর্টেস্ট পাথ (Shortest Path Finding)
-  * [গ্রাফ থিওরী - শর্টেস্ট পাথ প্রবলেম](http://www.progkriya.org/gyan/shortest-path.html) - [ইকরাম মাহমুদ](https://www.facebook.com/profile.php?id=100000831994504)
-  * [শর্টেস্ট পাথ - প্রবলেম নিয়ে বকর বকর](https://sites.google.com/site/smilitude/shortestpath_problems) - [ইকরাম মাহমুদ](https://www.facebook.com/profile.php?id=100000831994504)
-  * [শর্টেস্ট পাথের অ্যালগরিদম](https://sites.google.com/site/smilitude/shortestpath) - [ইকরাম মাহমুদ](https://www.facebook.com/profile.php?id=100000831994504)
-  * [ডায়াক্সট্রা](http://www.shafaetsplanet.com/planetcoding/?p=1500) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-  * [Dijkstra algorithm step by step in C++ Bangla ](https://www.shawonruet.com/2019/10/dijkstra-algorithm-step-by-step-in-c.html) - [আসাদুল্লাহ শাওন](https://web.facebook.com/ashadullah.shawon)
-  * [ফ্লয়েড ওয়ার্শল](http://www.shafaetsplanet.com/planetcoding/?p=1927) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-  * [বেলম্যান ফোর্ড](http://www.shafaetsplanet.com/planetcoding/?p=2044) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-  * [গ্রাফ শর্টেস্ট পাথ: ডায়াক্সট্রা অ্যালগরিদম](https://iishanto.com/dijkstra-algorithm-bangla-tutorial/) - [শরিফ হাসান](https://facebook.com/io.shanto)
-  * [গ্রাফ শর্টেস্ট পাথ: বেলম্যান ফোর্ড অ্যালগরিদম](https://iishanto.com/single-source-shortest-path-bellman-ford-algorithm/) - [শরিফ হাসান](https://facebook.com/io.shanto)
-
-* নেটওয়ার্ক ফ্লো এলগোরিদম (Network Flow Algorithm)
-  * [ম্যাক্সিমাম ফ্লো-১ ](http://www.shafaetsplanet.com/planetcoding/?p=2195) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-  * [ম্যাক্সিমাম ফ্লো-২ ](http://www.shafaetsplanet.com/planetcoding/?p=2231) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-
-* [স্টেবল ম্যারেজ প্রবলেম](http://www.shafaetsplanet.com/planetcoding/?p=1187) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-* [মিনিমাম ভারটেক্স কভার](http://www.shafaetsplanet.com/planetcoding/?p=582) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-* [Maximum Bipartite Matching by Kuhn’s Algorithm](http://shakilcompetitiveprogramming.blogspot.nl/2013/12/maximum-bipartite-matching-by-kuhns.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
-* [Bipartite Checking](https://www.shawonruet.com/2019/11/bipartite-checking-algorithm-step-by.html) - [আসাদুল্লাহ শাওন](https://web.facebook.com/ashadullah.shawon)
-* [ট্রাভেলিং সেলসম্যান](https://www.shawonruet.com/2019/12/traveling-salesman-problem-step-by-step.html) - [আসাদুল্লাহ শাওন](https://web.facebook.com/ashadullah.shawon)
-* [2-SAT](http://shakilcompetitiveprogramming.blogspot.nl/2014/08/blog-post.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
-
 
 ### ডাইনামিক প্রোগ্রামিং
 
@@ -273,7 +202,6 @@ tags: [programing]    # TAG names should always be lowercase
 * [LightOj Dp – পর্ব ১](https://returnzerooo.wordpress.com/2017/11/12/lightoj-dp-%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AC-%E0%A7%A7/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
 * [Dynamic Programming Optimization - Convex Hull Trick](https://rezwanarefin01.github.io/posts/convex-hull-trick/) - [রেজওয়ান আরেফিন](https://www.facebook.com/RezwanArefin01)
 * [ডায়নামিক প্রোগ্রামিং এবং রিকার্শন দিয়ে NCR কম্বিনেশন](https://www.shawonruet.com/2018/12/ncr.html) - [আসাদুল্লাহ শাওন](https://web.facebook.com/ashadullah.shawon)
-
 
 
 ### সর্টিং
@@ -396,129 +324,6 @@ tags: [programing]    # TAG names should always be lowercase
 
 ---
 
-## ডিজাইন প্যাটার্ণ
-
-### ডিজাইন প্যাটার্ণ কি
-
-* [বাংলায় ডিজাইন প্যাটার্ন - ভূমিকা: ডিজাইন প্যাটার্ন কি](http://lordamit.blogspot.com/2012/04/blog-post_09.html) -  [অমিত শীল অমি](https://www.facebook.com/lordamit)
-
-
-### ফ্যাক্টরী ডিজাইন প্যাটার্ণ
-
-* [ফ্যাক্টরী ডিজাইন প্যাটার্ণ](https://hasin.me/2014/05/13/factory-design-pattern/) - [হাসিন হায়দার](https://www.facebook.com/hasin)
-* [ফ্যাক্টরী মেথড ডিজাইন প্যাটার্ণ](http://masnun.com/2013/06/21/design-pattern-factory-method.html) - [আবু আশরাফ মাসনুন](https://www.facebook.com/abu.ashraf.masnun)
-* [ফ্যাক্টরি প্যাটার্নের পোস্টমর্টেম (Factory Method এবং Abstract Factory)](https://logicalforhad.wordpress.com/2013/05/22/%E0%A6%AB%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%9F%E0%A6%B0%E0%A6%BF-%E0%A6%AA%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8B/) - [এস. এম. ফরহাদ আলী](https://www.facebook.com/logicalforhad)
-
-### সিঙ্গেলটন ডিজাইন প্যাটার্ণ
-
-* [সিঙ্গেলটন ডিজাইন প্যাটার্ণ](https://hasin.me/2014/05/14/singleton-design-pattern/) - [হাসিন হায়দার](https://www.facebook.com/hasin)
-* [সিঙ্গেলটন ডিজাইন প্যাটার্ণ](http://software-engineering-notes-in-bangla.blogspot.com/2014/12/singleton-design-pattern.html) - [ইশতিয়াক হোসাইন](https://www.facebook.com/ishtiaque.hussain.7)
-* [পাইথনে সিঙ্গলটন প্যাটার্ন](http://masnun.com/2013/06/20/singleton-in-python.html) - [আবু আশরাফ মাসনুন](https://www.facebook.com/abu.ashraf.masnun)
-* [বাংলায় ডিজাইন প্যাটার্ন - Singleton Pattern ওরফে একাদ্বিতীয় প্যাটার্ন](http://lordamit.blogspot.com/2012/04/singleton-pattern.html) - [অমিত শীল অমি](https://www.facebook.com/lordamit)
-* [সিঙ্গেলটন ডিজাইন প্যাটার্ণ](https://logicalforhad.wordpress.com/2013/05/30/%E0%A6%B8%E0%A6%BF%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87%E0%A6%B2%E0%A6%9F%E0%A6%A8-%E0%A6%AA%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A8-singleton-pattern/) - [এস. এম. ফরহাদ আলী](https://www.facebook.com/logicalforhad)
-
-### স্ট্রাটেজি ডিজাইন প্যাটার্ণ
-
-* [স্ট্রাটেজি ডিজাইন প্যাটার্ণ](http://software-engineering-notes-in-bangla.blogspot.com/2014/12/strategy-design-pattern.html) - [ইশতিয়াক হোসাইন](https://www.facebook.com/ishtiaque.hussain.7)
-* [স্ট্রাটেজি ডিজাইন প্যাটার্ণ](http://architecture.howtocode.dev/design_patterns/strategy_pattern.html) - [How-to-code](http://www.howtocode.dev/)
-* [স্ট্রাটেজি ডিজাইন প্যাটার্ণ](https://logicalforhad.wordpress.com/2013/06/15/%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A7%87%E0%A6%9C%E0%A6%BF-%E0%A6%AA%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A8-strategy/) - [এস. এম. ফরহাদ আলী](https://www.facebook.com/logicalforhad)
-
-### ডেকোরেটর ডিজাইন প্যাটার্ণ
-
-* [ডেকোরেটর ডিজাইন প্যাটার্ণ](http://software-engineering-notes-in-bangla.blogspot.com/2014/12/decorator-design-pattern.html) - [ইশতিয়াক হোসাইন](https://www.facebook.com/ishtiaque.hussain.7)
-
-### প্রোটোটাইপ ডিজাইন প্যাটার্ণ
-
-* [প্রোটোটাইপ ডিজাইন প্যাটার্ণ](http://architecture.howtocode.dev/design_patterns/prototype_pattern.html) - [How-to-code](http://www.howtocode.dev/)
-* [প্রোটোটাইপ ডিজাইন প্যাটার্ণ](https://logicalforhad.wordpress.com/2013/06/24/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%9F%E0%A7%8B%E0%A6%9F%E0%A6%BE%E0%A6%87%E0%A6%AA-%E0%A6%AA%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A8-prototype-pattern/) - [এস. এম. ফরহাদ আলী](https://www.facebook.com/logicalforhad)
-
-### এডাপ্টার ডিজাইন প্যাটার্ণ
-
-* [এডাপ্টার ডিজাইন প্যাটার্ণ](http://architecture.howtocode.dev/design_patterns/adapter_pattern.html) - [How-to-code](http://www.howtocode.dev/)
-* [এডাপ্টার ডিজাইন প্যাটার্ণ](https://logicalforhad.wordpress.com/2013/07/07/%E0%A6%8F%E0%A6%A1%E0%A6%BE%E0%A6%AA%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A8-adapter-pattern/) - [এস. এম. ফরহাদ আলী](https://www.facebook.com/logicalforhad)
-
-### ইটারেটর ডিজাইন প্যাটার্ণ
-
-* [ইটারেটর ডিজাইন প্যাটার্ণ](http://architecture.howtocode.dev/design_patterns/iterator_pattern.html) - [How-to-code](http://www.howtocode.dev/)
-* [ইটারেটর ডিজাইন প্যাটার্ণ](https://logicalforhad.wordpress.com/2013/10/25/iterator-%E0%A6%A1%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%87%E0%A6%A8-%E0%A6%AA%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A8/) - [এস. এম. ফরহাদ আলী](https://www.facebook.com/logicalforhad)
-
-### চেইন অফ রেসপন্সিবিলিটি ডিজাইন প্যাটার্ণ
-
-* [চেইন অফ রেসপন্সিবিলিটি ডিজাইন প্যাটার্ণ](http://architecture.howtocode.dev/design_patterns/chain_of_responsibility.html) - [How-to-code](http://www.howtocode.dev/)
-* [Chain of Responsibility ওরফে দায়িত্বের ফাইল চালাচালি](http://lordamit.blogspot.com/2012/06/chain-of-responsibility.html) - [অমিত শীল অমি](https://www.facebook.com/lordamit)
-* [চেইন অফ রেসপন্সিবিলিটি ডিজাইন প্যাটার্ণ](https://logicalforhad.wordpress.com/2013/05/26/%E0%A6%9A%E0%A7%87%E0%A6%87%E0%A6%A8-%E0%A6%85%E0%A6%AB-%E0%A6%B0%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%B8%E0%A6%AA%E0%A6%A8%E0%A7%8D%E0%A6%B8%E0%A6%BF%E0%A6%AC%E0%A6%BF%E0%A6%B2%E0%A6%BF%E0%A6%9F%E0%A6%BF/) - [এস. এম. ফরহাদ আলী](https://www.facebook.com/logicalforhad)
-
-### অবজারভার ডিজাইন প্যাটার্ণ
-
-* [অবজারভার ডিজাইন প্যাটার্ণ](https://php.howtocode.dev/design-patterns/observer-pattern) - [How-to-code](http://www.howtocode.dev/)
-* [অবজারভার ডিজাইন প্যাটার্ণ](https://logicalforhad.wordpress.com/2013/05/29/%E0%A6%85%E0%A6%AC%E0%A6%9C%E0%A6%BE%E0%A6%B0%E0%A6%AD%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A8-observer-pattern/) - [এস. এম. ফরহাদ আলী](https://www.facebook.com/logicalforhad)
-* [অবজারভার ডিজাইন প্যাটার্ণ](http://software-engineering-notes-in-bangla.blogspot.com/2019/09/observer-design-pattern.html) - [ইসতিয়াক হুসাইন](https://www.linkedin.com/in/ishtiaquehussain/)
-* [অবজারভার ডিজাইন প্যাটার্ণ](https://dev.to/ashrafhussain17/-2mhe) - [আসরাফ হুসাইন](https://github.com/ashrafhussain17)
-
-
-### কম্পোজিট ডিজাইন প্যাটার্ণ
-
-* [কম্পোজিট ডিজাইন প্যাটার্ণ](http://architecture.howtocode.dev/design_patterns/composite_design_pattern.html) - [How-to-code](http://www.howtocode.dev/)
-* [কম্পোজিট ডিজাইন প্যাটার্ন](https://logicalforhad.wordpress.com/2015/04/26/%E0%A6%95%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A7%8B%E0%A6%9C%E0%A6%BF%E0%A6%9F-%E0%A6%A1%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%87%E0%A6%A8-%E0%A6%AA%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D/) - [এস. এম. ফরহাদ আলী](https://www.facebook.com/logicalforhad)
-
-### মেমেন্টো ডিজাইন প্যাটার্ণ
-
-* [মেমেন্টো ডিজাইন প্যাটার্ন](https://logicalforhad.wordpress.com/tag/%E0%A6%AE%E0%A7%87%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A7%8B-%E0%A6%A1%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%87%E0%A6%A8-%E0%A6%AA%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D/) - [এস. এম. ফরহাদ আলী](https://www.facebook.com/logicalforhad)
-
-### এমভিসি (MVC)  ডিজাইন প্যাটার্ণ
-
-* [এমভিসি (মডেল-ভিউ-কন্ট্রোলার) প্যাটার্ণ](http://masnun.com/2013/06/28/mvc-model-view-controller-pattern.html) - [আবু আশরাফ মাসনুন](https://www.facebook.com/abu.ashraf.masnun)
-
-### ব্রীজ ডিজাইন প্যাটার্ণ
-
-* [ব্রীজ ডিজাইন প্যাটার্ণ](https://logicalforhad.wordpress.com/2015/01/05/%E0%A6%AC%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%9C-%E0%A6%A1%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%87%E0%A6%A8-%E0%A6%AA%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A8/) - [এস. এম. ফরহাদ আলী](https://www.facebook.com/logicalforhad)
-
-### মিডিয়েটর ডিজাইন প্যাটার্ণ
-
-* [মিডিয়েটর ডিজাইন প্যাটার্ণ](https://logicalforhad.wordpress.com/2014/09/15/%E0%A6%AE%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A7%9F%E0%A7%87%E0%A6%9F%E0%A6%B0-%E0%A6%A1%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%87%E0%A6%A8-%E0%A6%AA%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D/) - [এস. এম. ফরহাদ আলী](https://www.facebook.com/logicalforhad)
-
-### ভিজিটর ডিজাইন প্যাটার্ণ
-
-* [ভিজিটর ডিজাইন প্যাটার্ণ](https://logicalforhad.wordpress.com/2014/07/08/%E0%A6%AD%E0%A6%BF%E0%A6%9C%E0%A6%BF%E0%A6%9F%E0%A6%B0-%E0%A6%A1%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%87%E0%A6%A8-%E0%A6%AA%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A8/) - [এস. এম. ফরহাদ আলী](https://www.facebook.com/logicalforhad)
-
-### স্টেট ডিজাইন প্যাটার্ণ
-
-* [ষ্টেট ডিজাইন প্যাটার্ন](https://logicalforhad.wordpress.com/2014/02/26/%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%87%E0%A6%9F-%E0%A6%A1%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%87%E0%A6%A8-%E0%A6%AA%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A8/) - [এস. এম. ফরহাদ আলী](https://www.facebook.com/logicalforhad)
-
-### টেমপ্লেট মেথড ডিজাইন প্যাটার্ণ
-
-* [টেমপ্লেট মেথড ডিজাইন প্যাটার্ণ](https://logicalforhad.wordpress.com/2013/10/03/%E0%A6%9F%E0%A7%87%E0%A6%AE%E0%A6%AA%E0%A7%8D%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AE%E0%A7%87%E0%A6%A5%E0%A6%A1-%E0%A6%A1%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%87%E0%A6%A8-%E0%A6%AA%E0%A7%8D%E0%A6%AF/) - [এস. এম. ফরহাদ আলী](https://www.facebook.com/logicalforhad)
-
-### কমান্ড ডিজাইন প্যাটার্ণ
-
-* [কমান্ড ডিজাইন প্যাটার্ণ](https://logicalforhad.wordpress.com/2013/09/26/%E0%A6%95%E0%A6%AE%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A1-%E0%A6%AA%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A8-command-pattern/) - [এস. এম. ফরহাদ আলী](https://www.facebook.com/logicalforhad)
-
-### ফ্যাসাড ডিজাইন প্যাটার্ণ
-
-* [সহজ বাংলায় ডিজাইন প্যাটার্ন: ফ্যাসাড (Facade)](https://hasin.me/2014/03/07/design-pattern-facade/) - [হাসিন হায়দার](https://www.facebook.com/hasin)
-* [ফ্যাসাড ডিজাইন প্যাটার্ণ](https://logicalforhad.wordpress.com/2013/06/10/%E0%A6%AB%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A6%BE%E0%A6%A6-%E0%A6%AA%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A8-facade-pattern/) - [এস. এম. ফরহাদ আলী](https://www.facebook.com/logicalforhad)
-* [ডিজাইন প্যাটার্নসমুহ: ফ্যাসাড প্যাটার্ন](http://code.tutsplus.com/bn/tutorials/design-patterns-the-facade-pattern--cms-22238)
-
-### ফ্লাইওয়েট ডিজাইন প্যাটার্ণ
-
-* [ফ্লাইওয়েট ডিজাইন প্যাটার্ণ](https://logicalforhad.wordpress.com/2013/06/02/%E0%A6%AB%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%9F-%E0%A6%AA%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A8-flyweight-pattern/) - [এস. এম. ফরহাদ আলী](https://www.facebook.com/logicalforhad)
-
-### নাল অবজেক্ট ডিজাইন প্যাটার্ণ
-
-* [নাল অবজেক্ট ডিজাইন প্যাটার্ণ](https://logicalforhad.wordpress.com/2013/05/04/%E0%A6%A8%E0%A6%BE%E0%A6%B2-%E0%A6%85%E0%A6%AC%E0%A6%9C%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%9F-%E0%A6%AA%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A8/) - [এস. এম. ফরহাদ আলী](https://www.facebook.com/logicalforhad)
-
-### বিল্ডার ডিজাইন প্যাটার্ণ
-
-* [বিল্ডার ডিজাইন প্যাটার্ণ](https://logicalforhad.wordpress.com/2013/02/04/%E0%A6%AC%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%A1%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A8/) - [এস. এম. ফরহাদ আলী](https://www.facebook.com/logicalforhad)
-
----
-
-## সফটওয়্যার আর্কিটেকচার
-* [মাইক্রোসার্ভিস আর্কিটেকচার](http://apikothon.com/microservice-bangla-tutorial) - [ইকরাম হোসাইন](https://www.facebook.com/ikrum)
-* [সফটওয়্যার আর্কিটেকচার - বাংলা](http://architecture.howtocode.dev/) - [How-to-code](http://www.howtocode.dev/)
-
----
-
 ## ভার্সন কন্ট্রোল সিস্টেম (GIT)
 * [গিট সম্পর্কে ধারণা, গিট ইন্সটল, ব্যবহার এবং গিটহাব এ একটা প্রজেক্ট পুশ করা](http://tech.jakir.me/%E0%A6%97%E0%A6%BF%E0%A6%9F-%E0%A6%93-%E0%A6%97%E0%A6%BF%E0%A6%9F%E0%A6%B9%E0%A6%BE%E0%A6%AC-%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%A3%E0%A6%BE/) - [জাকির হোসাইন](https://www.facebook.com/jakir007)
 * [ভার্সন কন্ট্রোল সিস্টেম](http://software-engineering-notes-in-bangla.blogspot.com/2015/06/blog-post.html) - [ইশতিয়াক হোসাইন](https://www.facebook.com/ishtiaque.hussain.7)
@@ -531,24 +336,6 @@ tags: [programing]    # TAG names should always be lowercase
 * [গিট ও গিটহাব](http://subeen.com/%E0%A6%97%E0%A6%BF%E0%A6%9F-%E0%A6%93-%E0%A6%97%E0%A6%BF%E0%A6%9F%E0%A6%B9%E0%A6%BE%E0%A6%AC/) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
 * [Git Bangla tutorial: গিট এবং গিটহাব: নতুনদের জন্য গিট](https://iishanto.com/git-bangla-tutorial/) - [শরিফ হাসান](https://facebook.com/io.shanto)
 - [গিটহাবে ওপেনসোর্স প্রজেক্টে কন্ট্রিবিউশনের সহজ ওয়ার্কফ্লো](https://medium.com/@me_shaon/%E0%A6%97%E0%A6%BF%E0%A6%9F%E0%A6%B9%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%93%E0%A6%AA%E0%A7%87%E0%A6%A8%E0%A6%B8%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%B8-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%9C%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%9F%E0%A7%87-%E0%A6%95%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A6%BF%E0%A6%89%E0%A6%B6%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%B9%E0%A6%9C-%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%AB%E0%A7%8D%E0%A6%B2%E0%A7%8B-1a2d8b107391) - [আহমেদ শামীম হাসান](https://www.facebook.com/ahmed.shamim.hassan)
-
-
----
-
-## সফটওয়্যার টেস্টিং
-* [টিডিডি – টেস্ট ড্রিভেন ডেভেলাপমেন্ট](http://subeen.com/%e0%a6%9f%e0%a6%bf%e0%a6%a1%e0%a6%bf%e0%a6%a1%e0%a6%bf-%e0%a6%9f%e0%a7%87%e0%a6%b8%e0%a7%8d%e0%a6%9f-%e0%a6%a1%e0%a7%8d%e0%a6%b0%e0%a6%bf%e0%a6%ad%e0%a7%87%e0%a6%a8-%e0%a6%a1%e0%a7%87%e0%a6%ad/) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
-* [ইউনিট টেস্টিং](http://subeen.com/%e0%a6%87%e0%a6%89%e0%a6%a8%e0%a6%bf%e0%a6%9f-%e0%a6%9f%e0%a7%87%e0%a6%b8%e0%a7%8d%e0%a6%9f%e0%a6%bf%e0%a6%82/) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
-* [লোড টেস্টিং](http://subeen.com/%e0%a6%b2%e0%a7%87%e0%a6%be%e0%a6%a1-%e0%a6%9f%e0%a7%87%e0%a6%b8%e0%a7%8d%e0%a6%9f%e0%a6%bf%e0%a6%82/) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
-* [সফটওয়্যার টেস্টিংঃ White Box টেস্টিং ও Black Box](http://subeen.com/%e0%a6%b8%e0%a6%ab%e0%a6%9f%e0%a6%93%e0%a7%9f%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b0-%e0%a6%9f%e0%a7%87%e0%a6%b8%e0%a7%8d%e0%a6%9f%e0%a6%bf%e0%a6%82%e0%a6%83-white-box-%e0%a6%9f%e0%a7%87%e0%a6%b8/) - [তামান্না নিশাত রিনি](https://www.facebook.com/nishat.rini)
-* [A/B টেস্টিং](http://subeen.com/ab-%e0%a6%9f%e0%a7%87%e0%a6%b8%e0%a7%8d%e0%a6%9f%e0%a6%bf%e0%a6%82/) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
-* [Selenium IDE: টেস্ট অটোমেশন-র ফ্রি টুল / প্লাগ-ইন](http://software-engineering-notes-in-bangla.blogspot.com/2016/05/selenium-ide.html) - [ইশতিয়াক হোসাইন](https://www.facebook.com/ishtiaque.hussain.7)
-* [টেস্ট অটোমেশনে ব্যবহৃত ডিজাইন প্যাটার্ন -TAP অথবা POM](http://software-engineering-notes-in-bangla.blogspot.com/2016/08/tap-pom.html) - [ইশতিয়াক হোসাইন](https://www.facebook.com/ishtiaque.hussain.7)
-
----
-
-## ডাটাবেজ সিস্টেম
-* [ডাটাবেজ নরমালাইজেশন](http://subeen.com/%E0%A6%A8%E0%A6%B0%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%9C%E0%A7%87%E0%A6%B6%E0%A6%A8-%E0%A6%A1%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A6%AC%E0%A7%87%E0%A6%9C/) - [মোঃ শফিউজ্জামান রাজিব](https://www.facebook.com/md.shafiuzzaman.rajib)
-* [ডাটাবেজ ট্রানজেকশন ও এসিড](http://subeen.com/%e0%a6%a1%e0%a6%be%e0%a6%9f%e0%a6%be%e0%a6%ac%e0%a7%87%e0%a6%9c-%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%a8%e0%a6%9c%e0%a7%87%e0%a6%95%e0%a6%b6%e0%a6%a8-%e0%a6%93-%e0%a6%8f%e0%a6%b8%e0%a6%bf/) - [মোঃ শফিউজ্জামান রাজিব](https://www.facebook.com/md.shafiuzzaman.rajib)
 
 ---
 
@@ -567,23 +354,9 @@ tags: [programing]    # TAG names should always be lowercase
 ---
 ## অন্যান্য
 
-### সিস্টেম ডিজাইন
-* [সিস্টেম ডিজাইন বাংলা](https://github.com/lahin31/system-design-bangla) - [লাহিন](https://www.linkedin.com/in/lahin31/)
-
-### এপিআই (এপ্লিকেশন প্রোগ্রামিং ইন্টারফেস)
-* [ডিজাইনিং রেস্ট এপিআই](http://apikothon.com/category/%E0%A6%A1%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%87%E0%A6%A8%E0%A6%BF%E0%A6%82-%E0%A6%B0%E0%A7%87%E0%A6%B8%E0%A7%8D%E0%A6%9F-%E0%A6%8F%E0%A6%AA%E0%A6%BF%E0%A6%86%E0%A6%87) - [ইকরাম হোসাইন](https://www.facebook.com/ikrum)
-
 ### স্কেলিং এন্ড পারফর্মেন্স অপটিমাইজেশন
 * [ওয়েব সার্ভার স্কেলিং](http://apikothon.com/category/%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%82-%E0%A6%93%E0%A7%9F%E0%A7%87%E0%A6%AC-%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AD%E0%A6%BE%E0%A6%B0) - [ইকরাম হোসাইন](https://www.facebook.com/ikrum)
 * [ভার্টিক্যাল ও হরাইজনটাল স্কেলিং](http://subeen.com/%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2-%E0%A6%93-%E0%A6%B9%E0%A6%B0%E0%A6%BE%E0%A6%87%E0%A6%9C%E0%A6%A8%E0%A6%9F%E0%A6%BE%E0%A6%B2/) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
-
-
-### ক্রিপ্টোগ্রাফি
-* [ক্রিপ্টোগ্রাফি পর্ব ১: বেসিক কিছু টার্ম](http://shoshikkha.com/archives/723) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
-* [ক্রিপ্টোগ্রাফি পর্ব ২.১: ক্লাসিকাল সাইফার : ট্রান্সপজিশন](http://shoshikkha.com/archives/899) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
-* [ক্রিপ্টোগ্রাফি পর্ব ২.২: ক্লাসিকাল সাইফার – সাবস্টিটিউশন](http://shoshikkha.com/archives/1250) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
-* [ক্রিপ্টোগ্রাফি পর্ব ২.৩: ভিজনেয়ার সাইফার](http://shoshikkha.com/archives/4520) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
-
 
 ### অন্যান্য
 * [সফটওয়্যার ডেভেলপমেন্টের ক্লাসিক ভুলগুলো](http://software-engineering-notes-in-bangla.blogspot.com/2015/12/blog-post.html) -  [ইশতিয়াক হোসাইন](https://www.facebook.com/ishtiaque.hussain.7)
@@ -623,22 +396,6 @@ tags: [programing]    # TAG names should always be lowercase
 * [বাংলায় পাইথন প্রোগ্রামিং ল্যাঙ্গুয়েজ বই এবং টিউটোরিয়াল](http://jakir.me/python) - [জাকির হোসাইন](https://www.facebook.com/jakir007)
 * [পাইথন বাংলা টিউটোরিয়াল](https://pythonbangla.com) - [Mahmud Ahsan](https://twitter.com/mahmudahsan)
 
-### ডার্ট
-* [বাংলায় ডার্ট ও ফ্লাটার বেসিক ](https://www.youtube.com/playlist?list=PLkyGuIcLcmx1mIPyMdVodlSVJqL7Y9Wv7) - [রাব্বিল হাসান](https://www.youtube.com/@RabbilHasanRupom)
-
-### গো-ল্যাং (golang)
-* [বাংলায় গো-ল্যাং (golang) টিউটোরিয়াল](https://golang.howtocode.dev/) - [How-to-code](https://www.howtocode.dev/)
-- [গো নিয়ে গড়াগড়ি](http://go.goragori.com/) - [হাসিন হায়দার](https://www.facebook.com/hasin)
-- [Golang কোডিং বুট ক্যাম্প ক্লাস ](https://www.youtube.com/playlist?list=PLZij6bgEHkTXRakAtponkmP2CmlTTKlxl) - [MASTER-ACADEMY](https://www.youtube.com/c/MASTERACADEMY4)
-
-
-### ক্লোজার (Clojure)
-* [ক্লোজার - একটি আধুনিক ফাংশনাল ল্যাঙ্গুয়েজ](https://clojure.howtocode.dev/) - [How-to-code](https://www.howtocode.dev/)
-
-### স্ক্যালা (Scala)
-* [Scala দি নেক্সট বিগ থিং](https://scala.howtocode.dev/) - [How-to-code](https://www.howtocode.dev/)
-
-
 ---
 
 ## বই
@@ -664,7 +421,6 @@ tags: [programing]    # TAG names should always be lowercase
 * [প্রোগ্রামিং ল্যাঙ্গুয়েজ](http://subeen.com/%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a7%87%e0%a6%be%e0%a6%97%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%ae%e0%a6%bf%e0%a6%82-%e0%a6%b2%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%99%e0%a7%8d%e0%a6%97%e0%a7%81%e0%a7%9f%e0%a7%87/) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
 * [প্রোগ্রামিং শেখার এক ডজন টিপস্](http://subeen.com/%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a7%87%e0%a6%be%e0%a6%97%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%ae%e0%a6%bf%e0%a6%82-%e0%a6%b6%e0%a7%87%e0%a6%96%e0%a6%be%e0%a6%b0-%e0%a6%8f%e0%a6%95-%e0%a6%a1%e0%a6%9c/) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
 * [কনফিউজড প্রোগ্রামার](http://www.shafaetsplanet.com/planetcoding/?p=3113) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-
 
 ---
 
