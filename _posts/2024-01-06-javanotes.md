@@ -6,7 +6,6 @@ tags: [notes]     # TAG names should always be lowercase
 ---
 
 ---
-
 # Introduction to Java
 
 ## What is Java?
