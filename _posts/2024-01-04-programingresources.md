@@ -1,7 +1,7 @@
 ---
 title: বাংলা প্রোগ্রামিং রিসোরসেস [Updated 03 Jan 2024]
 date: 2024-01-03 12:40:00 +0600
-categories: [programing]
+categories: [programing, bangla]
 tags: [programing]    # TAG names should always be lowercase
 image:
   path: /assets/img/sample/hecker.gif
