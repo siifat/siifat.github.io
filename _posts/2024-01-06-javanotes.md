@@ -22,7 +22,7 @@ Java
 - It's Free!
 
 
-## How to run our first code in Java?
+### How to run our first code in Java?
 We need a few things to get started.  
 - JDK (Java Development Kit)
 - An IDE or a Code/Text Editor  
@@ -34,7 +34,7 @@ For this guide I'll be using the [Intellij IDEA](https://www.jetbrains.com/idea/
 
 Now let's write our first code in Java!
 
-## Writing our first code
+# Writing our first code
 Whenever we learn a new programming language, it has become a tradition that we start our journey by printing "Hello world". We'll be doing exactly that right now.
 
 ```java
