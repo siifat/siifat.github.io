@@ -79,9 +79,9 @@ public class HelloWorld {
 
 **Congratulations!** 🥳 You've wrote your first Java program!
 
-# Variables & Keywords
+## Variables & Keywords
 
-## Keyword
+### Keyword
 Keyword
 : A keyword is any one of the reserved words, that have a predefined meaning in Java.  
 
@@ -110,14 +110,14 @@ Here is a list of keywords in the Java programming language. You cannot use any 
 | while            | super	       | strictfp
 | static	
 
-## Variables
+### Variables
 Variables are **a way to store information in our computer**.
 
 Variables that we define in a program, can be accessed **by a name we give them**, and the computer does the hard work of figuring out where they get stored in the computer's **Random Access Memory(RAM)**.
 
 To create a variable, first we need to know about **Data Types**.
 
-### Data Type
+#### Data Type
 There are lots of **different types of data, that we can define for our variables**. Collectively, these are known as data types.
 
 As you may have guessed, **some data types are keywords** in Java.  When we get to the Object Oriented features of Java, you will see that we have a lot of flexibility for creating our own data types, but for now, we'll explore **primitive data types**, which are **built into the Java language**.
@@ -125,7 +125,7 @@ As you may have guessed, **some data types are keywords** in Java.  When we get 
 Now that we've understood what Data Types are, we may create a variable. To define a variable:
 1. We need to specify the **data type**
 2. Then, give our variable a **name**
-3. ***Optionally***, <font color="cyan">add an **expression** to initialize the variable with a value.</font>
+3. ***Optionally***, <font color="cyan">add an <b>expression</b> to initialize the variable with a value.</font>
 
 
 
