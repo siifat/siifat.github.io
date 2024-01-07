@@ -64,7 +64,7 @@ public class HelloWorld {
 
  > Variable names must start with a letter, underscore (_), or dollar sign ($). Can contain nothing except letters, digits, underscores, and dollar signs
  and it cannot be a reserved keyword.
-{: .prompt-info }  
+{: .prompt-warning }  
 
 **3. `System.out.print("Hello world");`**
 
@@ -78,6 +78,69 @@ public class HelloWorld {
 - The `main` method simply prints the message "Hello world" to the console to show that the program ran successfully.
 
 **Congratulations!** 🥳 You've wrote your first Java program!
+
+# Variables & Keywords
+
+## Keyword
+Keyword
+: A keyword is any one of the reserved words, that have a predefined meaning in Java.  
+
+
+In Java syntax, **all code is case-sensitive**, and this includes keywords. As we'll soon see, an **int**, all in lowercase, is not the same as **Int**, with a capital **I**. Here, an **int**,(all in lowercase) is a keyword in Java.  
+
+Here is a list of keywords in the Java programming language. You cannot use any of the following as identifiers in your programs. The keywords const and goto are reserved, even though they are not currently used. `true`, `false`, and `null` might seem like keywords, but they are actually literals; you cannot use them as identifiers in your programs.
+
+| Keywords in Java |               |             |
+|    -----------   | ------------- | ----------- |
+| abstract         | synchronized  | return
+| continue         | this          | short
+| for              | protected     | transient
+| new              | throw         | try
+| switch           | public        | void
+| assert           | throws        | volatile
+| default	       | goto	       | package
+| boolean	       | do	if	       | private
+| break	           | double	       | implements	
+| byte	           | else	       | import
+| case	           | enum	       | instanceof		
+| catch	           | extends	   | int
+| char	           | final	       | interface
+| class	           | finally	   | long
+| const*	       | float	       | native	
+| while            | super	       | strictfp
+| static	
+
+## Variables
+Variables are **a way to store information in our computer**.
+
+Variables that we define in a program, can be accessed **by a name we give them**, and the computer does the hard work of figuring out where they get stored in the computer's **Random Access Memory(RAM)**.
+
+To create a variable, first we need to know about **Data Types**.
+
+### Data Type
+There are lots of **different types of data, that we can define for our variables**. Collectively, these are known as data types.
+
+As you may have guessed, **some data types are keywords** in Java.  When we get to the Object Oriented features of Java, you will see that we have a lot of flexibility for creating our own data types, but for now, we'll explore **primitive data types**, which are **built into the Java language**.
+
+Now that we've understood what Data Types are, we may create a variable. To define a variable:
+1. We need to specify the **data type**
+2. Then, give our variable a **name**
+3. ***Optionally***, <font color="cyan">add an **expression** to initialize the variable with a value.</font>
+
+
+
+# String Literals
+
+Text specified in double-quotes is called "string literals".
+
+> Double quotes `(" ")`are used for string literals and single quotes`(' ')`are used for character literals.
+{: .prompt-info }
+
+
+
+
+
+
 
 
 > You can leave a comment & react to my post below using your GitHub account. I added this requirement for GitHub account to avoid spam comments.
