@@ -122,11 +122,20 @@ There are lots of **different types of data, that we can define for our variable
 
 As you may have guessed, **some data types are keywords** in Java.  When we get to the Object Oriented features of Java, you will see that we have a lot of flexibility for creating our own data types, but for now, we'll explore **primitive data types**, which are **built into the Java language**.
 
+### Define a variable
 Now that we've understood what Data Types are, we may create a variable. To define a variable:
 1. We need to specify the **data type**
 2. Then, give our variable a **name**
 3. ***Optionally***, <font color="cyan">add an <b>expression</b> to initialize the variable with a value.</font>
 
+```java
+
+int myFirstNumber = 5;
+```
+We have just declared a variable of type `int` name `myFirstNumber` and assigned value `5` to our variable.
+
+> Note that we can assign a value to a variable multiple times in Java, but it’s the declaration (which includes the data type) that cannot normally be done a second time for the same variable.
+{: .prompt-info }
 # String Literals
 
 Text specified in double-quotes is called "string literals".
