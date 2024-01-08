@@ -5,12 +5,12 @@ categories: [programing]
 tags: [notes]     # TAG names should always be lowercase
 ---
 
-# Introduction to Java  
+## Introduction to Java  
 
 Java
 : Java is a powerful and versatile programming language that has been widely used for over two decades. It's known for its portability, security, and object-oriented approach.  
 
-## Key features of Java
+### Key features of Java
 - General-Purpose Programming Language
 - Easy to learn 
 - Write Once, Run Anywhere (WORA)
@@ -19,7 +19,7 @@ Java
 - Platform Independent
 - It's Free!  
 
-## Characteristics of Java
+### Characteristics of Java
 - Uses C/C++ basic syntax and basic data types - int, char, float, double, long, short, byte etc.
 - Uses standard C/C++ control structures
 - “Pure” OO(Object Oriented) language
@@ -185,18 +185,18 @@ Java code is case sensitive.
 
 And **variables will always be exactly as you declare them, including capitalization.**  
 
-<font color="purple"><i>Remember that, case matters in Java code!</i></font>  
+<font color="#FFCC66"><i>Remember that, case matters in Java code!</i></font>  
 
 
 ### How to name a java source file?
 - All java source file should end with .java  
-    - <font color="purple"><i>Example : </i></font>`Hello.java`  
+    - <font color="#FFCC66"><i>Example : </i></font>`Hello.java`  
 
 - Each .java file can contain only **one public 
 class**
 
 - The name of the file should be the name of the public class plus ".java"  
-    - <font color="purple"><i>Example : </i></font>If the public class is `public class HelloWorld` (HelloWorld), then the file name should be `HelloWorld.java`  
+    - <font color="#FFCC66"><i>Example : </i></font>If the public class is `public class HelloWorld` (HelloWorld), then the file name should be `HelloWorld.java`  
 
 > If the class name contains multiple words then capitalize the first letter of each word.  
 <i>Example:</i> `HelloWorld.java`
