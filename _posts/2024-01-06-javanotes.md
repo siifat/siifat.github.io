@@ -5,7 +5,7 @@ categories: [programing]
 tags: [notes]     # TAG names should always be lowercase
 ---
 
-## Introduction to Java  
+## <font color="#99FF66">Introduction to Java</font>  
 
 Java
 : Java is a powerful and versatile programming language that has been widely used for over two decades. It's known for its portability, security, and object-oriented approach.  
