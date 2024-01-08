@@ -182,25 +182,25 @@ Java code is case sensitive.
 
 **int** in lowercase, is not the same as **Int** with the first letter capitalized, or **INT**, all in uppercase, etc.  
 
-==**Keywords need to be in lowercase.**==  
+**Keywords need to be in lowercase.**  
 
 And **variables will always be exactly as you declare them, including capitalization.**  
 
-<font color="purple"><b>*Remember that, case matters in Java code!*</b></font>  
+<font color="purple"><i>Remember that, case matters in Java code!</i></font>  
 
 
 ### How to name a java source file?
 - All java source file should end with .java  
-    - <font color="purple"><b><i>Example : </i></b></font>`Hello.java`  
+    - <font color="purple"><i>Example : </i></font>`Hello.java`  
 
 - Each .java file can contain only **one public 
 class**
 
 - The name of the file should be the name of the public class plus ".java"  
-    - <font color="purple"><b><i>Example : </i></b></font>If the public class is `public class HelloWorld` (HelloWorld), then the file name should be `HelloWorld.java`  
+    - <font color="purple"><i>Example : </i></font>If the public class is `public class HelloWorld` (HelloWorld), then the file name should be `HelloWorld.java`  
 
-> If the class name contains multiple words then 
-capitalize the first letter of each word. Example: `HelloWorld.java`
+> If the class name contains multiple words then capitalize the first letter of each word.  
+<i>Example:</i> `HelloWorld.java`
 {: .prompt-info }  
 
 
