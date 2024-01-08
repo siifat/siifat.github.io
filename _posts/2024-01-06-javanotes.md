@@ -5,7 +5,7 @@ categories: [programing]
 tags: [notes]     # TAG names should always be lowercase
 ---
 
-## <font color="#99FF66">Introduction to Java</font>  
+## <font color="#99FF99">Introduction to Java</font>  
 
 Java
 : Java is a powerful and versatile programming language that has been widely used for over two decades. It's known for its portability, security, and object-oriented approach.  
@@ -35,7 +35,7 @@ machine
 Virtual Machine (JVM) . The JVM executes Java bytecodes
 
 
-## <font color="#99FF66">Requirments to code in Java?</font>
+## <font color="#99FF99">Requirments to code in Java?</font>
 We need a few things to get started.  
 - JDK (Java Development Kit)
 - An IDE or a Code/Text Editor  
@@ -46,7 +46,7 @@ For this guide I'll be using the [Intellij IDEA](https://www.jetbrains.com/idea/
 
 Now let's write our first code in Java!  
 
-## <font color="#99FF66">Writing our first code</font>
+## <font color="#99FF99">Writing our first code</font>
 Whenever we learn a new programming language, it has become a tradition that we start our journey by printing "Hello world". We'll be doing exactly that right now.  
 
 ```java
@@ -92,7 +92,7 @@ public class HelloWorld {
 **Congratulations!** 🥳 You've wrote your first Java program!  
 
 
-## <font color="#99FF66">Terms we need to be clear about</font>  
+## <font color="#99FF99">Terms we need to be clear about</font>  
 
 ### <font color="#99FF99">Keyword</font>
 A keyword is any one of the reserved words, that have a predefined meaning in Java.  
@@ -168,7 +168,7 @@ Text specified in double-quotes is called "string literals".
 > Double quotes `(" ")`are used for string literals and single quotes`(' ')`are used for character literals.
 {: .prompt-info }  
 
-## <font color="#99FF66">Before we start</font>  
+## <font color="#99FF99">Before we start</font>  
 
 Before we start our journey of Java, it's crusial to know certain things about it. Below are the things we need to understand to code on Java.  
 
