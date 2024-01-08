@@ -185,18 +185,18 @@ Java code is case sensitive.
 
 And **variables will always be exactly as you declare them, including capitalization.**  
 
-<font color="#FFCC66"><i>Remember that, case matters in Java code!</i></font>  
+<font color="#FFCC99"><i>Remember that, case matters in Java code!</i></font>  
 
 
 ### <font color="#99FF99">How to name a java source file?</font>
 - All java source file should end with .java  
-    - <font color="#FFCC66"><i>Example : </i></font>`Hello.java`  
+    - <font color="#FFCC99"><i>Example : </i></font>`Hello.java`  
 
 - Each .java file can contain only **one public 
 class**
 
 - The name of the file should be the name of the public class plus ".java"  
-    - <font color="#FFCC66"><i>Example : </i></font>If the public class is `public class HelloWorld` (HelloWorld), then the file name should be `HelloWorld.java`  
+    - <font color="#FFCC99"><i>Example : </i></font>If the public class is `public class HelloWorld` (HelloWorld), then the file name should be `HelloWorld.java`  
 
 > If the class name contains multiple words then capitalize the first letter of each word.  
 <i>Example:</i> `HelloWorld.java`
