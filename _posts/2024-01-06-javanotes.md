@@ -105,10 +105,10 @@ public class HelloWorld {
 - Inside that class, you have a method named `main` that Java runs when the program starts.
 - The `main` method simply prints the message "Hello world" to the console to show that the program ran successfully.
 
-**Congratulations!** 🥳 You've wrote your first Java program!
+**Congratulations!** 🥳 You've wrote your first Java program!  
 
 
-## Terms we need to be clear about
+## Terms we need to be clear about  
 
 ### Keyword
 A keyword is any one of the reserved words, that have a predefined meaning in Java.  
@@ -143,12 +143,12 @@ Variables are **a way to store information in our computer**.
 
 Variables that we define in a program, can be accessed **by a name we give them**, and the computer does the hard work of figuring out where they get stored in the computer's **Random Access Memory(RAM)**.
 
-To create a variable, first we need to know about **Data Types**.
+To create a variable, first we need to know about **Data Types**.  
 
 #### Data Type
 There are lots of **different types of data, that we can define for our variables**. Collectively, these are known as data types.
 
-As you may have guessed, **some data types are keywords** in Java.  When we get to the Object Oriented features of Java, you will see that we have a lot of flexibility for creating our own data types, but for now, we'll explore **primitive data types**, which are **built into the Java language**.
+As you may have guessed, **some data types are keywords** in Java.  When we get to the Object Oriented features of Java, you will see that we have a lot of flexibility for creating our own data types, but for now, we'll explore **primitive data types**, which are **built into the Java language**.  
 
 #### Define a variable
 Now that we've understood what Data Types are, we may create a variable. To define a variable:
@@ -163,14 +163,13 @@ int myFirstNumber = 5;
 We have just declared a variable of type `int` named `myFirstNumber` and assigned value `5` to our variable.
 
 > Note that, we can assign a value to a variable multiple times in Java, but it’s the declaration (which includes the data type) that cannot normally be done a second time for the same variable.
-{: .prompt-info }    
-
+{: .prompt-info }  
 
 ### Operators
 Operator
 : Java operators, or just operators, perform an operation (hence the term) on a variable or value.  
 
-Addition(`+`), Subtraction(`-`), Division(`/`), and Multiplication(`*`) are four common ones that I feel sure you're familiar with, but there are lots more operators you will work with later on.
+Addition(`+`), Subtraction(`-`), Division(`/`), and Multiplication(`*`) are four common ones that I feel sure you're familiar with, but there are lots more operators you will work with later on.  
 
 ### Expressions
 Expression
