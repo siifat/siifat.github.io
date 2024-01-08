@@ -6,21 +6,19 @@ tags: [notes]     # TAG names should always be lowercase
 ---
 
 ---
-# Introduction to Java
+# Introduction to Java  
 
-## What is Java?
 Java
-: Java is a powerful and versatile programming language that has been widely used for over two decades. It's known for its portability, security, and object-oriented approach.
+: Java is a powerful and versatile programming language that has been widely used for over two decades. It's known for its portability, security, and object-oriented approach.  
 
-### Key features of Java
+## Key features of Java
 - General-Purpose Programming Language
 - Easy to learn 
 - Write Once, Run Anywhere (WORA)
 - Object-Oriented
 - Secure
 - Platform Independent
-- It's Free!
-
+- It's Free!  
 
 ## How to run our first code in Java?
 We need a few things to get started.  
@@ -141,7 +139,7 @@ We have just declared a variable of type `int` named `myFirstNumber` and assigne
 Operator
 : Java operators, or just operators, perform an operation (hence the term) on a variable or value.  
 
-Addition, Subtraction, Division, and Multiplication are four common ones that I feel sure you're familiar with, but there are lots more operators you will work with later on.
+Addition(`+`), Subtraction(`-`), Division(`/`), and Multiplication(`*`) are four common ones that I feel sure you're familiar with, but there are lots more operators you will work with later on.
 
 ## Expressions
 Expression
