@@ -139,7 +139,7 @@ As you may have guessed, **some data types are keywords** in Java.  When we get 
 Now that we've understood what Data Types are, we may create a variable. To define a variable:
 1. We need to specify the **data type**
 2. Then, give our variable a **name**
-3. ***Optionally***, <font color="cyan">add an <b>expression</b> to initialize the variable with a value.</font>
+3. ***Optionally***, <font color="purple">add an <b>expression</b> to initialize the variable with a value.</font>
 
 ```java
 
@@ -186,23 +186,22 @@ Java code is case sensitive.
 
 And **variables will always be exactly as you declare them, including capitalization.**  
 
-<font color="cyan"><b>*Remember that, case matters in Java code!*</b></font>  
+<font color="purple"><b>*Remember that, case matters in Java code!*</b></font>  
 
 
 ### How to name a java source file?
 - All java source file should end with .java  
-    - <font color="purple">Example :</font> Hello.java  
+    - <font color="purple"><b>*Example* : </b></font>Hello.java  
 
 - Each .java file can contain only **one public 
 class**
 
-- The name of the file should be the name of 
-the public class plus ".java"  
-    - <font color="purple">Example : </font> If the public class is `public class HelloWorld` (HelloWorld), then the file name should be `HelloWorld.java`
+- The name of the file should be the name of the public class plus ".java"  
+    - <font color="purple"><b>*Example* : </b></font>If the public class is `public class HelloWorld` (HelloWorld), then the file name should be `HelloWorld.java`
 
 > If the class name contains multiple words then 
 capitalize the first letter of each word. Example: `HelloWorld.java`
-{: prompt-info }  
+{: .prompt-info }  
 
 
 
