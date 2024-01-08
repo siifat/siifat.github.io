@@ -138,7 +138,7 @@ As you may have guessed, **some data types are keywords** in Java.  When we get 
 Now that we've understood what Data Types are, we may create a variable. To define a variable:
 1. We need to specify the **data type**
 2. Then, give our variable a **name**
-3. ***Optionally***, <font color="purple">add an <b>expression</b> to initialize the variable with a value.</font>
+3. ***Optionally***, <font color="#FFCC99">add an <b>expression</b> to initialize the variable with a value.</font>
 
 ```java
 
@@ -192,16 +192,92 @@ And **variables will always be exactly as you declare them, including capitaliza
 - All java source file should end with .java  
     - <font color="#FFCC99"><i>Example : </i></font>`Hello.java`  
 
-- Each .java file can contain only **one public 
-class**
+- Each `.java` file can contain only **one public class**.
 
 - The name of the file should be the name of the public class plus ".java"  
     - <font color="#FFCC99"><i>Example : </i></font>If the public class is `public class HelloWorld` (HelloWorld), then the file name should be `HelloWorld.java`  
 
-> If the class name contains multiple words then capitalize the first letter of each word.  
+> As convention, if the class name contains multiple words then capitalize the first letter of each word.  
 <i>Example:</i> `HelloWorld.java`
 {: .prompt-info }  
 
+### <font color="#99FF99">Java's Primitive Types</font>
+
+In Java, Primitive Types are the most basic data types.  
+
+The **eight** primitive data types in Java are shown in the tables below, listed by the type of data stored for each:
+
+| Whole Number | Real number (floating point or decimal)|
+| ------------ | --------------------------------------|  
+|byte          | float                                 |
+|short         | double                                |
+|int           |
+|int           |
+|long          | 
+
+|Single Character| Boolean Value |
+|----------------| ------------- |       
+| char           | boolean       |  
+
+Consider these types as the building blocks of data manipulation.  
+
+<font color="#FFCC99">Remember that primitive data types are simply placeholders in memory for a value.
+</font>
+
+
+### Data Range
+
+#### Integer
+There's a specified range of values allowed for the int, which is true for most data types.  
+
+What this means is, that the allowable range of values is NOT infinite.
+
+There's a defined minimum, and maximum value, for each numeric data type, meaning you can't assign a number bigger or smaller (outside of that range).
+
+##### Finding out the range of integer type
+If we want to view the minimum value and the maximum value of an integer type data respectively, we can run the following code:
+
+```java
+public class Main {
+    public static void main(String[] args) {
+
+        int minIntValue = Integer.MIN_VALUE;
+        int maxIntValue = Integer.MAX_VALUE;
+
+        System.out.println("Minimun value of int data type = " + minIntValue);
+        System.out.println("Maximum value of int data type = " + maxIntValue);
+    }
+}
+```
+
+The outputs will be as below:
+```java
+Minimun value of int data type = -2147483648
+Maximum value of int data type = 2147483647
+```
+As we can see, the integer data type can hold a value from the range of -2147483648 to 2147483647.
+
+##### Using the `+` sign with System.out.ptint
+The plus sign, +,  when used in `System.out.print` will print different data types together as a single line of text.  
+
+In the example above:
+
+We want to print a label, before a numeric integer value. Whatever follows the plus sign in `System.out.print` here, is converted to a String by Java, and concatenated to the String before it.  
+
+This is perfectly valid syntax in Java.
+
+<font size = +1><b>Challenge :</b></font>
+Try to find the output of this code segment below:
+```java
+public class HelloWorld {
+    public static void main(String[] args) {
+
+        System.out.println("Integer value range (" + Integer.MIN_VALUE + " to " + Integer.MAX_VALUE + ")");
+    }
+}
+```
+
+The output should be : `Integer value range (-2147483648 to 2147483647)`  
 
 
 > You can leave a comment & react to my post below using your GitHub account. I added this requirement for GitHub account to avoid spam comments.
