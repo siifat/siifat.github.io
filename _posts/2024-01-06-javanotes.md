@@ -27,10 +27,10 @@ We need a few things to get started.
 
 Yep, that's all you need. ✅  
 
-
 For this guide I'll be using the [Intellij IDEA](https://www.jetbrains.com/idea/download/?section=windows) IDE by JetBrains. But you can use any IDE or Code/Text editor. Some notable ones are [Eclipse](https://www.eclipse.org/downloads/), [NetBeans](https://netbeans.apache.org/front/main/download/index.html) and [Visual Studio Code](https://code.visualstudio.com/).
 
-Now let's write our first code in Java!
+Now let's write our first code in Java!  
+
 
 # Writing our first code
 Whenever we learn a new programming language, it has become a tradition that we start our journey by printing "Hello world". We'll be doing exactly that right now.
