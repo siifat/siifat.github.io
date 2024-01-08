@@ -20,7 +20,23 @@ Java
 - Platform Independent
 - It's Free!  
 
-## How to run our first code in Java?
+## Characteristics of Java
+- Uses C/C++ basic syntax and basic data types - int, char, float, double, long, short, byte etc.
+- Uses standard C/C++ control structures
+- “Pure” OO(Object Oriented) language
+- No stand alone functions -All code is part of a class
+- No explicit pointers - uses references
+- Uses garbage collection
+- Java is strongly typed
+- Java is normally compiled to a bytecode.
+- Java bytecode is a machine language for an abstract 
+machine
+- Makes Java secure and Portable
+- Each platform (or browser) that runs Java has a Java 
+Virtual Machine (JVM) . The JVM executes Java bytecodes
+
+
+## Requirments to code in Java?
 We need a few things to get started.  
 - JDK (Java Development Kit)
 - An IDE or a Code/Text Editor  
@@ -31,9 +47,23 @@ For this guide I'll be using the [Intellij IDEA](https://www.jetbrains.com/idea/
 
 Now let's write our first code in Java!  
 
+## How to name a java source file?
+- All java source file should end with .java  
+    - <font color="yellow">Example :</font> Hello.java  
 
-# Writing our first code
-Whenever we learn a new programming language, it has become a tradition that we start our journey by printing "Hello world". We'll be doing exactly that right now.
+- Each .java file can contain only **one public 
+class**
+
+- The name of the file should be the name of 
+the public class plus ".java"  
+    - <font color="yellow">Example : </font> If the public class is `public class HelloWorld` (HelloWorld), then the file name should be `HelloWorld.java`
+
+> If the class name contains multiple words then 
+capitalize the first letter of each word. Example: `HelloWorld.java`
+{: prompt-info }
+
+## Writing our first code
+Whenever we learn a new programming language, it has become a tradition that we start our journey by printing "Hello world". We'll be doing exactly that right now.  
 
 ```java
 
@@ -133,7 +163,8 @@ int myFirstNumber = 5;
 We have just declared a variable of type `int` named `myFirstNumber` and assigned value `5` to our variable.
 
 > Note that, we can assign a value to a variable multiple times in Java, but it’s the declaration (which includes the data type) that cannot normally be done a second time for the same variable.
-{: .prompt-info }
+{: .prompt-info }    
+
 
 ## Operators
 Operator
@@ -147,18 +178,21 @@ Expression
 
 This code can be a simple literal value, like the number 5, or it can be a complex mathematical equation using multiple literal values and mathematical operators.  
 
-
 ## String Literals
 
 Text specified in double-quotes is called "string literals".
 
 > Double quotes `(" ")`are used for string literals and single quotes`(' ')`are used for character literals.
-{: .prompt-info }
+{: .prompt-info }  
 
+## Java Code is case sensitive
+Java code is case sensitive.  
 
+**This includes not only keywords and language syntax, but variable names and data types as well.**  
 
+`myFirstNumber` is not the same variable as `MyFirstNumber` with a capital M.  
 
-
+**int** in lowercase, is not the same as **Int** with the first letter capitalized, or **INT**, all in uppercase, etc.  
 
 
 
