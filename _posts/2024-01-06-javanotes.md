@@ -194,6 +194,11 @@ Java code is case sensitive.
 
 **int** in lowercase, is not the same as **Int** with the first letter capitalized, or **INT**, all in uppercase, etc.  
 
+**Keywords need to be in lowercase.**  
+
+And **variables will always be exactly as you declare them, including capitalization.**  
+
+<font color="yellow">Remember that, case matters in Java code!</font>  
 
 
 > You can leave a comment & react to my post below using your GitHub account. I added this requirement for GitHub account to avoid spam comments.
