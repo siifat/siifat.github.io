@@ -10,7 +10,7 @@ tags: [notes]     # TAG names should always be lowercase
 Java
 : Java is a powerful and versatile programming language that has been widely used for over two decades. It's known for its portability, security, and object-oriented approach.  
 
-### Key features of Java
+### <font color="#99FF99">Key features of Java</font>
 - General-Purpose Programming Language
 - Easy to learn 
 - Write Once, Run Anywhere (WORA)
@@ -19,7 +19,7 @@ Java
 - Platform Independent
 - It's Free!  
 
-### Characteristics of Java
+### <font color="#99FF99">Characteristics of Java</font>
 - Uses C/C++ basic syntax and basic data types - int, char, float, double, long, short, byte etc.
 - Uses standard C/C++ control structures
 - “Pure” OO(Object Oriented) language
@@ -35,7 +35,7 @@ machine
 Virtual Machine (JVM) . The JVM executes Java bytecodes
 
 
-## Requirments to code in Java?
+## <font color="#99FF66">Requirments to code in Java?</font>
 We need a few things to get started.  
 - JDK (Java Development Kit)
 - An IDE or a Code/Text Editor  
@@ -46,7 +46,7 @@ For this guide I'll be using the [Intellij IDEA](https://www.jetbrains.com/idea/
 
 Now let's write our first code in Java!  
 
-## Writing our first code
+## <font color="#99FF66">Writing our first code</font>
 Whenever we learn a new programming language, it has become a tradition that we start our journey by printing "Hello world". We'll be doing exactly that right now.  
 
 ```java
@@ -92,9 +92,9 @@ public class HelloWorld {
 **Congratulations!** 🥳 You've wrote your first Java program!  
 
 
-## Terms we need to be clear about  
+## <font color="#99FF66">Terms we need to be clear about</font>  
 
-### Keyword
+### <font color="#99FF99">Keyword</font>
 A keyword is any one of the reserved words, that have a predefined meaning in Java.  
 
 
@@ -122,7 +122,7 @@ Here is a list of keywords in the Java programming language. You cannot use any 
 | while            | super	       | strictfp
 | static	
 
-### Variables
+### <font color="#99FF99">Variables</font>
 Variables are **a way to store information in our computer**.
 
 Variables that we define in a program, can be accessed **by a name we give them**, and the computer does the hard work of figuring out where they get stored in the computer's **Random Access Memory(RAM)**.
@@ -149,30 +149,30 @@ We have just declared a variable of type `int` named `myFirstNumber` and assigne
 > Note that, we can assign a value to a variable multiple times in Java, but it’s the declaration (which includes the data type) that cannot normally be done a second time for the same variable.
 {: .prompt-info }  
 
-### Operators
+### <font color="#99FF99">Operators</font>
 Operator
 : Java operators, or just operators, perform an operation (hence the term) on a variable or value.  
 
 Addition(`+`), Subtraction(`-`), Division(`/`), and Multiplication(`*`) are four common ones that I feel sure you're familiar with, but there are lots more operators you will work with later on.  
 
-### Expressions
+### <font color="#99FF99">Expressions</font>
 Expression
 : The expression is the code segment that is on the right side of the equals sign in an assignment or declaration statement.  
 
 This code can be a simple literal value, like the number 5, or it can be a complex mathematical equation using multiple literal values and mathematical operators.  
 
-### String Literals
+### <font color="#99FF99">String Literals</font>
 
 Text specified in double-quotes is called "string literals".
 
 > Double quotes `(" ")`are used for string literals and single quotes`(' ')`are used for character literals.
 {: .prompt-info }  
 
-## Before we start  
+## <font color="#99FF66">Before we start</font>  
 
 Before we start our journey of Java, it's crusial to know certain things about it. Below are the things we need to understand to code on Java.  
 
-### Java Code is case sensitive
+### <font color="#99FF99">Java Code is case sensitive</font>
 Java code is case sensitive.  
 
 **This includes not only keywords and language syntax, but variable names and data types as well.**  
@@ -188,7 +188,7 @@ And **variables will always be exactly as you declare them, including capitaliza
 <font color="#FFCC66"><i>Remember that, case matters in Java code!</i></font>  
 
 
-### How to name a java source file?
+### <font color="#99FF99">How to name a java source file?</font>
 - All java source file should end with .java  
     - <font color="#FFCC66"><i>Example : </i></font>`Hello.java`  
 
