@@ -147,10 +147,7 @@ Addition, Subtraction, Division, and Multiplication are four common ones that I 
 Expression
 : The expression is the code segment that is on the right side of the equals sign in an assignment or declaration statement.  
 
-This code can be a simple literal value, like the number 5, or it can be a complex mathematical equation using multiple literal values and mathematical operators.
-
-
-
+This code can be a simple literal value, like the number 5, or it can be a complex mathematical equation using multiple literal values and mathematical operators.  
 
 
 ## String Literals
