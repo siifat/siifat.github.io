@@ -191,13 +191,13 @@ And **variables will always be exactly as you declare them, including capitaliza
 
 ### How to name a java source file?
 - All java source file should end with .java  
-    - <font color="purple"><b>*Example* : </b></font>Hello.java  
+    - <font color="purple"><b><i>Example : </i></b></font>`Hello.java`  
 
 - Each .java file can contain only **one public 
 class**
 
 - The name of the file should be the name of the public class plus ".java"  
-    - <font color="purple"><b>*Example* : </b></font>If the public class is `public class HelloWorld` (HelloWorld), then the file name should be `HelloWorld.java`
+    - <font color="purple"><b><i>Example : </i></b></font>If the public class is `public class HelloWorld` (HelloWorld), then the file name should be `HelloWorld.java`  
 
 > If the class name contains multiple words then 
 capitalize the first letter of each word. Example: `HelloWorld.java`
