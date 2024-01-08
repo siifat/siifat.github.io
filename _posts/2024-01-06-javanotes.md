@@ -132,11 +132,28 @@ Now that we've understood what Data Types are, we may create a variable. To defi
 
 int myFirstNumber = 5;
 ```
-We have just declared a variable of type `int` name `myFirstNumber` and assigned value `5` to our variable.
+We have just declared a variable of type `int` named `myFirstNumber` and assigned value `5` to our variable.
 
-> Note that we can assign a value to a variable multiple times in Java, but it’s the declaration (which includes the data type) that cannot normally be done a second time for the same variable.
+> Note that, we can assign a value to a variable multiple times in Java, but it’s the declaration (which includes the data type) that cannot normally be done a second time for the same variable.
 {: .prompt-info }
-# String Literals
+
+## Operators
+Operator
+: Java operators, or just operators, perform an operation (hence the term) on a variable or value.  
+
+Addition, Subtraction, Division, and Multiplication are four common ones that I feel sure you're familiar with, but there are lots more operators you will work with later on.
+
+## Expressions
+Expression
+: The expression is the code segment that is on the right side of the equals sign in an assignment or declaration statement.  
+
+This code can be a simple literal value, like the number 5, or it can be a complex mathematical equation using multiple literal values and mathematical operators.
+
+
+
+
+
+## String Literals
 
 Text specified in double-quotes is called "string literals".
 
