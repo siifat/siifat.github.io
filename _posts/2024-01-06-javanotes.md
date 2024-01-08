@@ -3,9 +3,9 @@ title: My Java Notes
 date: 2024-01-06 13:35:00 +0600
 categories: [programing]
 tags: [notes]     # TAG names should always be lowercase
+style: [font-family: Roboto]
 ---
 
----
 # Introduction to Java  
 
 Java
@@ -206,4 +206,4 @@ class**
 
 
 > You can leave a comment & react to my post below using your GitHub account. I added this requirement for GitHub account to avoid spam comments.
-{: .prompt-info }
+{: .prompt-info }  
