@@ -108,9 +108,9 @@ public class HelloWorld {
 **Congratulations!** 🥳 You've wrote your first Java program!
 
 
-# Variables & Keywords
+## Terms we need to be clear about
 
-## Keyword
+### Keyword
 A keyword is any one of the reserved words, that have a predefined meaning in Java.  
 
 
@@ -138,19 +138,19 @@ Here is a list of keywords in the Java programming language. You cannot use any 
 | while            | super	       | strictfp
 | static	
 
-## Variables
+### Variables
 Variables are **a way to store information in our computer**.
 
 Variables that we define in a program, can be accessed **by a name we give them**, and the computer does the hard work of figuring out where they get stored in the computer's **Random Access Memory(RAM)**.
 
 To create a variable, first we need to know about **Data Types**.
 
-### Data Type
+#### Data Type
 There are lots of **different types of data, that we can define for our variables**. Collectively, these are known as data types.
 
 As you may have guessed, **some data types are keywords** in Java.  When we get to the Object Oriented features of Java, you will see that we have a lot of flexibility for creating our own data types, but for now, we'll explore **primitive data types**, which are **built into the Java language**.
 
-### Define a variable
+#### Define a variable
 Now that we've understood what Data Types are, we may create a variable. To define a variable:
 1. We need to specify the **data type**
 2. Then, give our variable a **name**
@@ -166,26 +166,26 @@ We have just declared a variable of type `int` named `myFirstNumber` and assigne
 {: .prompt-info }    
 
 
-## Operators
+### Operators
 Operator
 : Java operators, or just operators, perform an operation (hence the term) on a variable or value.  
 
 Addition(`+`), Subtraction(`-`), Division(`/`), and Multiplication(`*`) are four common ones that I feel sure you're familiar with, but there are lots more operators you will work with later on.
 
-## Expressions
+### Expressions
 Expression
 : The expression is the code segment that is on the right side of the equals sign in an assignment or declaration statement.  
 
 This code can be a simple literal value, like the number 5, or it can be a complex mathematical equation using multiple literal values and mathematical operators.  
 
-## String Literals
+### String Literals
 
 Text specified in double-quotes is called "string literals".
 
 > Double quotes `(" ")`are used for string literals and single quotes`(' ')`are used for character literals.
 {: .prompt-info }  
 
-## Java Code is case sensitive
+### Java Code is case sensitive
 Java code is case sensitive.  
 
 **This includes not only keywords and language syntax, but variable names and data types as well.**  
@@ -198,7 +198,8 @@ Java code is case sensitive.
 
 And **variables will always be exactly as you declare them, including capitalization.**  
 
-<font color="yellow">Remember that, case matters in Java code!</font>  
+<font color="cyan"><b>*Remember that, case matters in Java code!*</b></font>  
+
 
 
 > You can leave a comment & react to my post below using your GitHub account. I added this requirement for GitHub account to avoid spam comments.
