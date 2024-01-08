@@ -47,21 +47,6 @@ For this guide I'll be using the [Intellij IDEA](https://www.jetbrains.com/idea/
 
 Now let's write our first code in Java!  
 
-## How to name a java source file?
-- All java source file should end with .java  
-    - <font color="yellow">Example :</font> Hello.java  
-
-- Each .java file can contain only **one public 
-class**
-
-- The name of the file should be the name of 
-the public class plus ".java"  
-    - <font color="yellow">Example : </font> If the public class is `public class HelloWorld` (HelloWorld), then the file name should be `HelloWorld.java`
-
-> If the class name contains multiple words then 
-capitalize the first letter of each word. Example: `HelloWorld.java`
-{: prompt-info }
-
 ## Writing our first code
 Whenever we learn a new programming language, it has become a tradition that we start our journey by printing "Hello world". We'll be doing exactly that right now.  
 
@@ -184,6 +169,10 @@ Text specified in double-quotes is called "string literals".
 > Double quotes `(" ")`are used for string literals and single quotes`(' ')`are used for character literals.
 {: .prompt-info }  
 
+## Before we start  
+
+Before we start our journey of Java, it's crusial to know certain things about it. Below are the things we need to understand to code on Java.  
+
 ### Java Code is case sensitive
 Java code is case sensitive.  
 
@@ -193,11 +182,27 @@ Java code is case sensitive.
 
 **int** in lowercase, is not the same as **Int** with the first letter capitalized, or **INT**, all in uppercase, etc.  
 
-**Keywords need to be in lowercase.**  
+==**Keywords need to be in lowercase.**==  
 
 And **variables will always be exactly as you declare them, including capitalization.**  
 
 <font color="cyan"><b>*Remember that, case matters in Java code!*</b></font>  
+
+
+### How to name a java source file?
+- All java source file should end with .java  
+    - <font color="purple">Example :</font> Hello.java  
+
+- Each .java file can contain only **one public 
+class**
+
+- The name of the file should be the name of 
+the public class plus ".java"  
+    - <font color="purple">Example : </font> If the public class is `public class HelloWorld` (HelloWorld), then the file name should be `HelloWorld.java`
+
+> If the class name contains multiple words then 
+capitalize the first letter of each word. Example: `HelloWorld.java`
+{: prompt-info }  
 
 
 
