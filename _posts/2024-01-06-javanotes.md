@@ -178,6 +178,48 @@ A wrapper class provides simple operations, as well as some basic information ab
 
 MIN_VALUE, and MAX_VALUE, are elements of this basic information, for the int data type.  
 
+|Primitive|Wrapper Class|
+|---------|-------------|
+|byte|Byte|
+|short|Short|
+|char|Character|
+|int|Integer|
+|long|Long|
+|float|Float|
+|double|Double|
+|boolean|Boolean|
+
+<table border="1" align = "center">
+    <tr>
+        <th>Primitive</th>
+        <th>Wrapper Class</th>
+    </tr>
+    <tr>
+        <td>byte</td>
+        <td>Byte</td>
+    </tr>
+    <tr>
+        <td>short</td>
+        <td>Wrapper Class</td>
+    </tr>
+    <tr>
+        <td>Primitive</td>
+        <td>Wrapper Class</td>
+    </tr>
+    <tr>
+        <td>Primitive</td>
+        <td>Wrapper Class</td>
+    </tr>
+    <tr>
+        <td>Primitive</td>
+        <td>Wrapper Class</td>
+    </tr>
+    <tr>
+        <td>Primitive</td>
+        <td>Wrapper Class</td>
+    </tr>
+</table>
+
 ### Overflow and Underflow in Java
 If you try and put a value larger than the maximum value into an int, you'll create something called an Overflow situation.  
 
@@ -187,16 +229,16 @@ These situations are also known as **integer wraparounds**.
 <br/>  
 <font color = "#FFCC99">The maximum value, when it overflows, wraps around to the minimum value, and just continues processing without an error.
 
-The minimum value, when it underflows, wraps around to the maximum value, and continues processing.</font>
+The minimum value, when it underflows, wraps around to the maximum value, and continues processing.</font>  
 
-This is not usually behavior you really want, and as a developer, you need to be aware that this can happen, and choose the appropriate data type.
+This is not usually behavior you really want, and as a developer, you need to be aware that this can happen, and choose the appropriate data type.  
 
 #### When will we get an overflow? when will you get an error?
 An integer wraparound event, either an overflow or underflow, can occur in Java when you are using expressions that are not a simple literal value. 
 
 The Java compiler doesn't attempt to evaluate the expression to determine its value, so it DOES NOT give you an error.
 
-<font color = "#FFCC99">*Now look at these example below carefully*</font>
+*<font color = "#FFCC99">Now look at these example below carefully</font>*  
 
 Here are two more examples that will compile, and result in an overflow.  The second example may be surprising.  Even though we are using numeric literals in the expression, the compiler still won't try to evaluate this expression, and the code will compile, resulting in an overflow condition.
 
