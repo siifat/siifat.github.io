@@ -206,7 +206,7 @@ int thisWillCompile = (2147483647 + 1);
 ```
 **BUT** if you assign a numeric literal value to a data type that is outside of the range, the compiler DOES give you an error.
 
-![Alt text](image.png)
+![Alt text](/assets/img/sample/image.png)
 
 
 > You can use underscores (`_`) to improve integer readablity.  
