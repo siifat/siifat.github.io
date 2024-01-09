@@ -168,6 +168,48 @@ Text specified in double-quotes is called "string literals".
 > Double quotes `(" ")`are used for string literals and single quotes`(' ')`are used for character literals.
 {: .prompt-info }  
 
+### Class
+A class is a building block for object-oriented programming, and allows us to **build custom data types**.
+
+### Wrapper Class
+Java uses the concept of a wrapper class, for all of its eight primitive data types.
+
+A wrapper class provides simple operations, as well as some basic information about the primitive data type, which cannot be stored on the primitive itself. 
+
+MIN_VALUE, and MAX_VALUE, are elements of this basic information, for the int data type.  
+
+### Overflow and Underflow in Java
+If you try and put a value larger than the maximum value into an int, you'll create something called an Overflow situation.  
+
+And similarly, if you try to put a value smaller than the minimum value into an int, you cause an Underflow to occur.  
+
+These situations are also known as **integer wraparounds**.
+<br/>  
+<font color = "#FFCC99">The maximum value, when it overflows, wraps around to the minimum value, and just continues processing without an error.
+
+The minimum value, when it underflows, wraps around to the maximum value, and continues processing.</font>
+
+This is not usually behavior you really want, and as a developer, you need to be aware that this can happen, and choose the appropriate data type.
+
+#### When will we get an overflow? when will you get an error?
+An integer wraparound event, either an overflow or underflow, can occur in Java when you are using expressions that are not a simple literal value. 
+
+The Java compiler doesn't attempt to evaluate the expression to determine its value, so it DOES NOT give you an error.
+
+<font color = "#FFCC99">*Now look at these example below carefully*</font>
+
+Here are two more examples that will compile, and result in an overflow.  The second example may be surprising.  Even though we are using numeric literals in the expression, the compiler still won't try to evaluate this expression, and the code will compile, resulting in an overflow condition.
+
+```java
+int thisWillCompile = (Integer.MAX_VALUE + 1);
+int thisWillCompile = (2147483647 + 1);
+```
+**BUT** if you assign a numeric literal value to a data type that is outside of the range, the compiler DOES give you an error.
+
+![Alt text](image.png)
+
+
+
 ## <font color="#99FF99">Before we start</font>  
 
 Before we start our journey of Java, it's crusial to know certain things about it. Below are the things we need to understand to code on Java.  
@@ -266,7 +308,7 @@ We want to print a label, before a numeric integer value. Whatever follows the p
 
 This is perfectly valid syntax in Java.
 
-<font size = +1><b>Challenge :</b></font>
+**Challenge :**
 Try to find the output of this code segment below:
 ```java
 public class HelloWorld {
@@ -278,6 +320,8 @@ public class HelloWorld {
 ```
 
 The output should be : `Integer value range (-2147483648 to 2147483647)`  
+
+##### Casting in java
 
 
 > You can leave a comment & react to my post below using your GitHub account. I added this requirement for GitHub account to avoid spam comments.
