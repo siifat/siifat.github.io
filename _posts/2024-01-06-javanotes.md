@@ -209,6 +209,10 @@ int thisWillCompile = (2147483647 + 1);
 ![Alt text](image.png)
 
 
+> You can use underscores (`_`) to improve integer readablity.  
+*Example:* `int a = 2_147_483_647;`  
+Which will give you `a ==> 2147483647`
+{: .prompt-tip }
 
 ## <font color="#99FF99">Before we start</font>  
 
