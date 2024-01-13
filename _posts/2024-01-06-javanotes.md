@@ -169,7 +169,9 @@ Text specified in double-quotes is called "string literals".
 {: .prompt-info }  
 
 ### Class
-A class is a building block for object-oriented programming, and allows us to **build custom data types**.
+A class is a building block for object-oriented programming, and allows us to **build custom data types**.   
+
+Basically, a class is a type of custom data type. Like for example, <i>you can use multiple integers to make a sort of super data type, which we will class a class in java.</i> And Java comes with a whole library of helpful classes.
 
 ### Wrapper Class
 Java uses the concept of a wrapper class, for all of its eight primitive data types.
@@ -180,45 +182,14 @@ MIN_VALUE, and MAX_VALUE, are elements of this basic information, for the int da
 
 |Primitive|Wrapper Class|
 |---------|-------------|
-|byte|Byte|
-|short|Short|
-|char|Character|
-|int|Integer|
-|long|Long|
-|float|Float|
-|double|Double|
-|boolean|Boolean|
-
-<table border="1" align = "center">
-    <tr>
-        <th>Primitive</th>
-        <th>Wrapper Class</th>
-    </tr>
-    <tr>
-        <td>byte</td>
-        <td>Byte</td>
-    </tr>
-    <tr>
-        <td>short</td>
-        <td>Wrapper Class</td>
-    </tr>
-    <tr>
-        <td>Primitive</td>
-        <td>Wrapper Class</td>
-    </tr>
-    <tr>
-        <td>Primitive</td>
-        <td>Wrapper Class</td>
-    </tr>
-    <tr>
-        <td>Primitive</td>
-        <td>Wrapper Class</td>
-    </tr>
-    <tr>
-        <td>Primitive</td>
-        <td>Wrapper Class</td>
-    </tr>
-</table>
+|byte     |Byte         |
+|short    |Short        |
+|char     |Character    |
+|int      |Integer      |
+|long     |Long         |
+|float    |Float        |
+|double   |Double       |
+|boolean  |Boolean      |  
 
 ### Overflow and Underflow in Java
 If you try and put a value larger than the maximum value into an int, you'll create something called an Overflow situation.  
@@ -313,7 +284,7 @@ Consider these types as the building blocks of data manipulation.
 </font>
 
 
-### Data Range
+### A look at the premitive data types
 
 #### Integer
 There's a specified range of values allowed for the int, which is true for most data types.  
@@ -367,7 +338,222 @@ public class HelloWorld {
 
 The output should be : `Integer value range (-2147483648 to 2147483647)`  
 
-##### Casting in java
+#### When is `L` required?
+A numeric literal that exceeds `Integer.MAX_VALUE` must use the `L` suffix.  
+
+We cannot create a numeric literal in Java, that exceeds `Integer.MAX_VALUE`, without using the `L` suffix, we'll always get the error `integer number too large`.
+
+- for whole numbers, the output is never in scientific notation. but for real/decimal numbers, we can print it as we like, by using scintific notation or how many decimal points.
+
+#### Floating point number precision tip
+In general, float and double are great for general floating point operations. 
+
+But neither should be used when precise calculations are required – this is due to a limitation with how floating point numbers are stored, and not a Java problem as such.
+
+Java has a class called `BigDecimal` that overcomes this. 
+
+#### Char
+
+##### Comparing the char to the String
+
+|char|String|
+|----|------|
+| - Holds one, and only, one character | - Can hold multiple characters |
+| - Literal closed in Single Quotes    | - Literal closed in Double Quotes |
+
+A char occupies two bytes of memory, or 16 bits, and thus has a width of 16.
+
+The reason it's not just a single byte, is that a char is stored as a 2 byte number, similar to the short.  
+
+This number gets mapped to a single character by Java.  
+
+- So, when you print a char, you will see the mapped character, and not the representative number.
+- And you can use single quotes and a character literal to assign a value to a char, which is much simpler than looking up the representative number.  
+
+
+- You need to put a `\` to use a unicode. Example: `char myChar = '\u0044';` which is the unicode for letter `D`.  
+
+
+#### Boolean
+A boolean value allows for two opposite choices, true or false, yes or no, one or zero.  
+
+In Java terms, we've got a boolean primitive type, and it can be set to **two** values only, either `true` or `false`.  
+
+The wrapper for boolean is Boolean with a capital B.  
+
+##### Why would you start your boolean variable name with the prefix "is" ?
+Developers will often use the word, **is**, as a prefix for a boolean variable name.
+
+This creates a name that seems to ask a question, which makes reading the code more intuitive.  
+
+But other prefixes can be just as valid.  
+
+Here are some example boolean variable names, such as isMarried and hasChildren, that clearly define what condition is being tested:  
+
+|Boolean Variable name examples|
+|------------------------------|
+|isCustomerOverTwentyOne|
+|isEligibleForDiscount|
+|hasValidLicense|
+|isMarried|
+|hasChildren|
+
+### Java's built-in classes
+
+- Wrappers (Boolean, Double, Character, etc.)
+- BigDecimal
+- String  
+
+### String
+
+#### What is a string?
+A String is a class that contains a sequence of characters.  
+
+The String can contain a large number of characters. Its technically only limited by the ammount of memory space or heap space in your computer, which turns out to be the value of `Integer.MAX_VALUE`.  
+
+#### String Concatenation
+In Java, the `+` symbol is an operator which can mean addition, if used for numbers.  
+
+But it also means concatenation when applied to a String.  
+
+A String `+` anything else, gives us a String as a result, concatenating anything after the String as text to the initial String.
+
+So if I type:
+```java
+String myString = "50";
+int myInt = 10;
+mystring = myString + myInt
+
+System.out.print(myString);
+```
+We'll get the output : `5010`;  
+
+#### Strings are Immutable
+Immutable means that you can't change a String after it's created.
+
+So in the case of the code we've written, the value 10 is technically not appended to the current contents of `myString`.  
+
+Instead, a new String is created automatically by Java. The new String consists of the previous value of myString, plus a textual representation of the integer value 10.  
+
+The net result, is that our variable, myString, has the concatenated value. However, Java created a new String in the process, and the old one will get discarded from memory automatically.
+
+As this process creates a new string every time, its not very efficient and generally not recommended.  
+
+
+#### String vs StringBuilder
+
+- The String class is immutable, but can be used much like a primitive data type. 
+
+- The StringBuilder class is mutable, but does not share the String's special features, such as being able to assign it a String literal or use the `+` operator on it. 
+
+
+Both are classes, but the String class is in a special category in the Java language.
+
+
+> The String is so intrinsic to the Java language, it can be used like a 9th primitive type. But it's not a primitive type at all, it's a class.
+{: .prompt-tip }
+
+
+### Operators, Operands and Expressions
+
+#### What are Operators?
+
+So what are operators?
+
+**<i>Operators in Java are special symbols that perform specific operations on one, two, or three operands, and then return a result.</i>**
+
+In the examples above, which we saw in a previous segment of this document, we used the plus or addition operator, as well as the multiplication operator. 
+
+*Example* : `long longTotal = 50000L + 10L * (byteValue + shortValue + intValue);`
+
+But there are many other operators in Java.
+
+#### What are Operands?
+
+So what is an operand?
+
+An operand is a term used to describe any object that is manipulated by an operator.
+
+So if we consider this:
+
+`int myVar = 15 + 12;`  
+
+The plus here is the operator, and 15 and 12 are the operands. 
+
+Variables used instead of literals can also be operands.  
+
+Another example from a challenge we did previously:  
+
+`long longTotal = 50000L + 10L * (byteValue + shortValue + intValue);`  
+
+In the line above, byteValue, shortValue and intValue are operands, as are the numeric literals.  
+
+#### What are Expressions?
+
+What's an expression?  
+
+An expression is formed by combining variables, literals, method return values, (which we haven't covered yet), and operators.  
+
+They are a way of forming and combining those values to produce a result.  
+
+In the line below, 15 plus 12 is the expression, which returns the value of 27.
+
+`int myVar = 15 + 12;`  
+
+Int the statement below, byteValue + shortValue + intValue is the expression.  
+
+`int sumOfThree = byteValue + shortValue + intValue;`  
+
+### Access Modifier
+
+The `public` Java keyword is what's called an access modifier. 
+
+An access modifier allows us to define which parts of our code, or even someone else's code, can access a particular element.   
+
+```java
+public class FirstClass {
+    public static void main(String[] args) {
+        System.out.print("Hello World");
+    }
+}
+```
+### Class Keyword
+The **class** keyword is used to define a class. The class name will be the text following the keyword, so **FirstClass** in this case.. 
+
+Notice the **left and right curly braces**, they are used to define the class code block, or class body.
+
+```java
+public class FirstClass {
+    public static void main(String[] args) {
+        System.out.print("Hello World");
+    }
+}
+```
+To define a class, requirs an ***optional*** access modifier at the start.
+
+Within a class, we can have data and code.
+
+### Method
+
+```java
+public class FirstClass {
+    public static void main(String[] args) {
+        System.out.print("Hello World");
+    }
+}
+```
+
+You can see, we have this line `public static void main(String[] args)`. Below that we have our `System.out.print("Hello World");` code to print our Hello World message. This is the main method.
+
+**So what is a Methode?**  
+
+A method is a collection of statements, one or more, that perform an operation.
+
+*<font color = #FFCC99>We'll be using a special method called the main method, that Java looks for when running a program.</font>*
+
+It's the entry point for any Java code, and Java looks for the main method to start and run the program when we use it.
+
+You can also create your own methods.
 
 
 > You can leave a comment & react to my post below using your GitHub account. I added this requirement for GitHub account to avoid spam comments.
