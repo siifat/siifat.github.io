@@ -549,7 +549,7 @@ You can see, we have this line `public static void main(String[] args)`. Below t
 
 A method is a collection of statements, one or more, that perform an operation.
 
-<font color = #FFCC99><i>We'll be using a special method called the main method, that Java looks for when running a program.</i></font>
+<font color = "#FFCC99"><i>We'll be using a special method called the main method, that Java looks for when running a program.</i></font>
 
 It's the entry point for any Java code, and Java looks for the main method to start and run the program when we use it.
 
