@@ -800,6 +800,9 @@ public static boolean isTooYoung(int age) {
     if (age <  21) {
         return true;
     }
+    // This code will not compile
+    // because there is no return statement for cases
+    // where age is greater than or equal 21.
 }
 ```  
 
@@ -830,9 +833,9 @@ public static boolean isTooYoung(int age) {
 }
 ```  
 
-The return statement can return with no value from a method, which is declared with a void return type. 
+The return statement can return with no value from a method, which is declared with a `void` return type. 
 
-In this case, the return statement is optional, but it may be used to terminate execution of the method, at some earlier point than the end of the method block, as we show here:
+<font color = "#FFCC99">In this case, the return statement is optional, but it may be used to terminate execution of the method, at some earlier point than the end of the method block, as we show here:</font>
 
 ```java
 public static void methodDoesSomething(int age) {
@@ -857,7 +860,7 @@ This will become important later in this section, when we cover overloaded metho
 #### Default values for parameters
 In many languages, methods can be defined with default values, and you can omit passing values for these when calling the method.
 
-But Java doesn't support default values for parameters.
+But <font color = "#FFCC99">Java doesn't support default values for parameters.</font>
 
 There are work-arounds for this limitation, and we'll be reviewing those at a later date.
 
