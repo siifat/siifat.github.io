@@ -613,17 +613,17 @@ public static void methodName() {
 To execute a method, we can write a statement in code, which we say is calling, or invoking, the method.  
 
 ```java
-        boolean gameOver = true;
-        int score = 800;
-        int levelCompleted = 5;
-        int bonus = 100;
+boolean gameOver = true;
+int score = 800;
+int levelCompleted = 5;
+int bonus = 100;
 
-        int finalScore = score;
+int finalScore = score;
 
-        if (gameOver) {
-            finalScore += (levelCompleted * bonus);
-            System.out.println("Your final score was " + finalScore);
-        }
+if (gameOver) {
+    finalScore += (levelCompleted * bonus);
+    System.out.println("Your final score was " finalScore);
+}
 ```
 
 For a simple method like `calculateScore`, we just use the name of the method, where we want it to be executed, followed by parentheses, and a semi-colon to complete the statement.  
@@ -651,9 +651,10 @@ So we have to pass first a boolean, and then 3 int values as shown in this state
 ```java
 calculateScore(true, 800, 5, 100);
 ```
-<font color = "#CB3C3C"><i>We can't pass the boolean type in any place, other than as the first argument, without an error.</i></font>  
+<font color = "#CB3C3C"><i>We can't pass the boolean type in any place, other than as the first argument, without an error.  </i></font>  
 
-The statement below would cause an error.
+
+The statement below would cause an error.  
 
 ```java
 calculateScore(800, 5, 100, true);
