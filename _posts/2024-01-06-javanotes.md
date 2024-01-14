@@ -612,7 +612,21 @@ public static void methodName() {
 
 To execute a method, we can write a statement in code, which we say is calling, or invoking, the method.  
 
-For a simple method like calculateScore, we just use the name of the method, where we want it to be executed, followed by parentheses, and a semi-colon to complete the statement.  
+```java
+        boolean gameOver = true;
+        int score = 800;
+        int levelCompleted = 5;
+        int bonus = 100;
+
+        int finalScore = score;
+
+        if (gameOver) {
+            finalScore += (levelCompleted * bonus);
+            System.out.println("Your final score was " + finalScore);
+        }
+```
+
+For a simple method like `calculateScore`, we just use the name of the method, where we want it to be executed, followed by parentheses, and a semi-colon to complete the statement.  
 
 So for this example, the calling statement would look like the code shown here:
 
@@ -630,14 +644,14 @@ But technically, a parameter is the definition as shown in the method declaratio
 
 To execute a method that's defined with parameters, you have to pass variables, values, or expressions that match the type, order and number of the parameters declared.
 
-In the calculateScore example, we declared the method with four parameters, the first a boolean, and the other three of int data types.
+In the calculateScore example, we declared the method with four parameters, the first a `boolean`, and the other three of `int` data types.
 
 So we have to pass first a boolean, and then 3 int values as shown in this statement:
 
 ```java
 calculateScore(true, 800, 5, 100);
 ```
-<font color = "#FFCC99"><i>We can't pass the boolean type in any place, other than as the first argument, without an error.</i></font>
+<font color = "#CB3C3C"><i>We can't pass the boolean type in any place, other than as the first argument, without an error.</i></font>  
 
 The statement below would cause an error.
 
