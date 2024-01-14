@@ -2,7 +2,7 @@
 title: My Java Guide
 date: 2024-01-06 13:35:00 +0600
 categories: [programing]
-tags: [notes]     # TAG names should always be lowercase
+tags: [guides]     # TAG names should always be lowercase
 ---
 
 ## <font color="#99FF99">Introduction to Java</font>  
@@ -608,6 +608,13 @@ public static void methodName() {
 
 }
 ```
+
+> We have to start our code for a new method outside o another method.
+{: .prompt-info }  
+
+> Methods need to be inside a class block. You can't have a method exist on its own, outside of a class' body.
+{: .prompt-info }
+
 #### Executing a Method as a Statement
 
 To execute a method, we can write a statement in code, which we say is calling, or invoking, the method.  
@@ -651,7 +658,7 @@ So we have to pass first a boolean, and then 3 int values as shown in this state
 ```java
 calculateScore(true, 800, 5, 100);
 ```
-<font color = "#CB3C3C"><i>We can't pass the boolean type in any place, other than as the first argument, without an error.  </i></font>  
+*<font color = "#CB3C3C">We can't pass the boolean type in any place, other than as the first argument, without an error.</font>*  
 
 
 The statement below would cause an error.  
