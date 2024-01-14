@@ -358,8 +358,8 @@ Java has a class called `BigDecimal` that overcomes this.
 
 |char|String|
 |----|------|
-| - Holds one, and only, one character | - Can hold multiple characters |
-| - Literal closed in Single Quotes    | - Literal closed in Double Quotes |
+| Holds one, and only, one character | Can hold multiple characters |
+| Literal closed in Single Quotes    | Literal closed in Double Quotes |
 
 A char occupies two bytes of memory, or 16 bits, and thus has a width of 16.
 
@@ -647,6 +647,17 @@ Parameters and arguments are terms that are often used interchangeably by develo
 
 But technically, a parameter is the definition as shown in the method declaration, and the argument will be the value that's passed to the method when we call it.
 
+```java
+public static void calculateScore(int x, int y) {
+    // int x, int y are parameters
+}
+
+
+calculateScore(a, b) {
+    // a, b are arguments
+}
+```
+
 #### Executing a Method with parameters
 
 To execute a method that's defined with parameters, you have to pass variables, values, or expressions that match the type, order and number of the parameters declared.
@@ -674,6 +685,202 @@ This statement, too, would cause an error.
 ```java
 calculateScore(true, 800);
 ```
+
+#### Method structure with parameters and return type
+
+```java
+// Method return type is a declared data type for the data that
+// will be returned from the method
+
+public static dataType methodName(p1type p1, p2type p2, {more}) {
+
+    // Method statements
+    return value;
+}
+```
+So, similar to declaring a variable with a type, we can declare a method to have a type.  
+
+This declared type is placed just before the method name.  
+
+In addition, a return statement is required in the code block, as shown on the above code block, which returns the result from the method.  
+
+An example of a method declaration with a return type is shown here.  
+
+In this case, the return type is an int.  
+
+```java
+public static int calculateMyAge(int dateOfBirth) {
+    return (2023 - dateOfBirth)
+}
+```  
+This method will return an integer when it finishes executing successfully.  
+
+#### The Return statement
+So, what's a return statement?  
+
+Java states that a return statement returns control to the invoker of a method.  
+
+The most common usage of the return statement, is to return a value back from a method.  
+
+In a method that doesn't return anything, in other words a method declared with void as the return type, a return statement is not required.  
+
+But in methods that do return data, a return statement with a value is required.  
+
+```java
+// Here is one way
+int highScore = calculateScore(gameOver, score, levelCompleted, bonus);
+System.out.println("The highScore is = " + highScore);
+
+// We can also do this
+System.out.println("The highScore is = " +
+        calculateScore(gameOver, score, levelCompleted, bonus));
+```
+
+#### Summary 1:  
+- <font color = "FFCC99">We need to use a <b>return statement</b> if we set the method to return a data. Or else, we'll get an error.</font>
+- <font color = "FFCC99">We can pass method calls as arguments to other method calls.</font>  
+- <font color = "FFCC99">Any method can be executed as an expression.</font>  
+- <font color = "FFCC99">A method that returns a value can be used as an expression, or as a part of any expression.</font>  
+
+### More on Methods  
+
+Java's documentation states that:  
+
+A method declares executable code that can be invoked, passing a fixed number of values as arguments.
+
+#### Is the method a statement or an expression?
+Like some of the abbreviated operators we learned about, a method can be a statement or an expression in some instances.  
+
+Any method can be executed as a statement.  
+
+A method that returns a value can be used as an expression, or as part of any expression.
+
+#### What are functions and procedures?
+Some programming languages will call a method that returns a value, a function, and a method that doesn't return a value, a procedure.  
+
+You'll often hear function and method used interchangeably in Java. 
+
+The term procedure is somewhat less common, when applied to Java methods, but you may still hear a method with a void return type, called procedure.
+
+#### Declaring the Method
+So there are quite a few declarations that need to occur as we create a method. 
+This consists of:
+- Declaring Modifiers. These are keywords in Java with special meanings, we've seen public and static as examples, but there are others.
+- Declaring the return type.
+    - void is a Java keyword meaning no data is returned from a method.
+    - Alternatively, the return type can be any primitive data type or class. 
+    - If a return type is defined, the code block must use at least one return statement, returning a value, of the declared type or comparable type.
+- Declaring the method name. Lower camel case is recommended for method names.
+- Declaring the method parameters in parentheses. A method is not required to have parameters, so a set of empty parentheses would be declared in that case.
+- Declaring the method block with opening and closing curly braces. This is also called the method body.
+
+
+#### Declaring the Parameters
+Parameters are declared as a list of comma-separated specifiers, each of which has a parameter type and a parameter name (or identifier).
+
+Parameter order is important when calling the method.
+
+The calling code must pass arguments to the method, with the same or comparable type, and in the same order, as the declaration.
+
+The calling code must pass the same number of arguments, as the number of parameters declared.
+
+#### Declaring the Return Type
+When declaring a return type:
+
+`void` is a valid return type, and means no data is returned.
+Any other return type requires a return statement, in the method code block.
+
+#### The Return Statement for methods that have a return type
+If a method declares a return type, meaning it's not void, then a return type is required at any exit point from the method block.
+
+Consider the method block shown here:  
+
+```java
+public static boolean isTooYoung(int age) {
+    if (age <  21) {
+        return true;
+    }
+}
+```  
+
+So in the case of using a return statement in nested code blocks in a method, all possible code segments must result in a value being returned.
+
+The following code demonstrates one way to do this:  
+
+```java
+public static boolean isTooYoung(int age) {
+    if (age <  21) {
+        return true;
+    }
+    return false;
+}
+```  
+
+One common practice is to declare a default return value at the start of a method, and only have a single return statement from a method, returning that variable, as shown in this example method:
+  
+```java
+public static boolean isTooYoung(int age) {
+    
+    boolean result = false;
+    
+    if (age <  21) {
+        result = true;
+    }
+    return result;
+}
+```  
+
+The return statement can return with no value from a method, which is declared with a void return type. 
+
+In this case, the return statement is optional, but it may be used to terminate execution of the method, at some earlier point than the end of the method block, as we show here:
+
+```java
+public static void methodDoesSomething(int age) {
+    
+    if (age <  21) {
+        return;
+    }
+    // Do more stuff here
+}
+```  
+
+#### The Method Signature
+A method is uniquely defined in a class by its name, and the number and type of parameters that are declared for it.
+
+This is called the method signature.
+
+You can have multiple methods with the same method name, as long as the method signature (meaning the parameters declared) are different.
+
+This will become important later in this section, when we cover overloaded methods.
+
+
+#### Default values for parameters
+In many languages, methods can be defined with default values, and you can omit passing values for these when calling the method.
+
+But Java doesn't support default values for parameters.
+
+There are work-arounds for this limitation, and we'll be reviewing those at a later date.
+
+But it's important to state again, in Java, the number of arguments you pass, and their type, must match the parameters in the method declaration exactly.
+
+#### Revisiting the main method
+Now, that we're armed with knowledge about methods, we can revisit the main method, and examine it again.
+
+The main method is special in Java, because Java's virtual machine (JVM) looks for the method, with this particular signature, and uses it as the entry point for execution of code.
+
+```java
+public static void main(String[] args) {
+    // Code in here
+}
+```  
+
+#### IntelliJ Hint
+Finally, in IntelliJ, if you type psvm and hit enter, IntelliJ will insert the main method signature as we show here. 
+
+The only reason to memorize this signature, would be if you were taking a certification exam.
+
+![Alt text](https://i.ibb.co/rwrztbv/Screenshot-2024-01-15-002113.png)
+
 
 > You can leave a comment & react to my post below using your GitHub account. I added this requirement for GitHub account to avoid spam comments.
 {: .prompt-info }  
