@@ -556,5 +556,35 @@ It's the entry point for any Java code, and Java looks for the main method to st
 You can also create your own methods.
 
 
+## In-depth on each topic
+
+### Expressions and Statements
+
+```java
+int myVar = 5 + 2;
+```
+Here there are a total of 2 expressions. `5 + 2` is one of them, and the other is `myVar = 5 + 2`. If we consider `int` and the semi-colon`;` at the end of the line, then `int myVar = 5 + 2;` becomes a vlid Java statement.
+
+Let's look at another example:
+
+```java
+int health = 4000;
+int score = 650;
+
+if ((health >= 50) && (score >= 100)) {
+    score = score + 100;
+};
+```
+Here, there are a total of 7 expressions. They are:
+- `health = 4000;`
+- `score = 650;`
+- `health >= 50`
+- `score >= 100`
+- `(health >= 50) && (score >= 100)`
+- `score + 100`
+- `score = score + 100;`
+
+### 
+
 > You can leave a comment & react to my post below using your GitHub account. I added this requirement for GitHub account to avoid spam comments.
 {: .prompt-info }  
