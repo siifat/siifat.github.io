@@ -271,7 +271,6 @@ The **eight** primitive data types in Java are shown in the tables below, listed
 |byte          | float                                 |
 |short         | double                                |
 |int           |
-|int           |
 |long          | 
 
 |Single Character| Boolean Value |
@@ -629,7 +628,7 @@ int finalScore = score;
 
 if (gameOver) {
     finalScore += (levelCompleted * bonus);
-    System.out.println("Your final score was " finalScore);
+    System.out.println("Your final score was " + finalScore);
 }
 ```
 
