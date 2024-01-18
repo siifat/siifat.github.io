@@ -883,7 +883,7 @@ The only reason to memorize this signature, would be if you were taking a certif
 
 ![Alt text](https://i.ibb.co/rwrztbv/Screenshot-2024-01-15-002113.png)
 
-[Notion](https://www.notion.so/Ideal-way-to-create-a-project-eb44f7ae55a445159a54f1926e0e447b?pvs=4)
+[Notion](https://aquamarine-gouda-e1f.notion.site/Ideal-way-to-create-a-project-eb44f7ae55a445159a54f1926e0e447b?pvs=4)
 
 
 > You can leave a comment & react to my post below using your GitHub account. I added this requirement for GitHub account to avoid spam comments.
